@@ -1,0 +1,356 @@
+,film,rating,numVotes
+0,Wings ,7.3,13576.0
+1,7th Heaven ,5.2,26223.0
+2,The Racket ,6.7,3149.0
+3,Alibi ,7.4,391.0
+4,Hollywood Revue,5.8,2174.0
+5,The Patriot ,7.2,282275.0
+6,All Quiet on the Western Front ,8.1,65386.0
+7,The Big House ,6.8,4322.0
+8,Disraeli ,6.1,1318.0
+9,Cimarron ,6.4,3233.0
+10,East Lynne ,7.0,41.0
+11,The Front Page ,7.3,14295.0
+12,Skippy ,6.4,1108.0
+13,Trader Horn ,6.2,1058.0
+14,Grand Hotel ,8.1,836067.0
+15,Arrowsmith ,6.2,1836.0
+16,Bad Girl ,5.4,809.0
+17,The Champ ,6.8,8912.0
+18,Shanghai Express ,7.3,9618.0
+19,Cavalcade ,5.8,5550.0
+20,42nd Street ,7.3,12549.0
+21,A Farewell to Arms ,6.4,6451.0
+22,Little Women ,7.8,218222.0
+23,Smilin' Through ,6.9,1440.0
+24,State Fair ,7.0,4325.0
+25,The Barretts of Wimpole Street ,7.0,2001.0
+26,Cleopatra ,,
+27,Imitation of Life ,7.8,17229.0
+28,The Thin Man ,7.9,31222.0
+29,Mutiny on the Bounty ,7.2,17072.0
+30,Alice Adams ,6.9,4322.0
+31,Captain Blood ,7.7,15076.0
+32,David Copperfield ,7.7,4788.0
+33,The Informer ,6.6,39509.0
+34,The Lives of a Bengal Lancer ,7.0,3109.0
+35,A Midsummer Night's Dream ,6.4,26194.0
+36,Les Misérables ,7.5,336046.0
+37,Naughty Marietta ,6.5,1453.0
+38,Dodsworth ,7.8,9678.0
+39,Romeo and Juliet ,7.6,33417.0
+40,San Francisco ,7.3,6371.0
+41,A Tale of Two Cities ,7.8,5988.0
+42,Captains Courageous ,7.9,10308.0
+43,Dead End ,6.5,30273.0
+44,The Good Earth ,7.5,5191.0
+45,Lost Horizon ,7.6,13800.0
+46,A Star Is Born ,7.6,396752.0
+47,You Can't Take It with You ,7.8,26748.0
+48,Alexander's Ragtime Band ,6.9,2215.0
+49,Boys Town ,7.2,6018.0
+50,The Citadel ,6.3,10217.0
+51,Jezebel ,7.4,14308.0
+52,Pygmalion ,7.8,9161.0
+53,Test Pilot ,6.8,2577.0
+54,Gone with the Wind ,8.2,321925.0
+55,"Goodbye, Mr. Chips ",7.9,11095.0
+56,Love Affair ,6.0,4917.0
+57,Of Mice and Men ,7.5,45096.0
+58,Stagecoach ,7.8,51137.0
+59,The Wizard of Oz ,8.1,409552.0
+60,Wuthering Heights ,7.5,18907.0
+61,Rebecca ,6.0,44096.0
+62,Foreign Correspondent ,7.4,22250.0
+63,The Grapes of Wrath ,8.1,95957.0
+64,Kitty Foyle ,6.9,3877.0
+65,The Letter ,7.5,13874.0
+66,Our Town ,6.5,2782.0
+67,The Philadelphia Story ,7.9,71352.0
+68,How Green Was My Valley ,7.7,25272.0
+69,The Little Foxes ,7.9,12487.0
+70,The Maltese Falcon ,8.0,162017.0
+71,Sergeant York ,7.7,19063.0
+72,Suspicion ,5.7,7271.0
+73,49th Parallel ,7.3,7142.0
+74,The Magnificent Ambersons ,7.6,25655.0
+75,The Pied Piper ,6.4,843.0
+76,Random Harvest ,7.9,8003.0
+77,The Talk of the Town ,7.5,8692.0
+78,Wake Island ,6.7,2104.0
+79,Casablanca ,8.5,582415.0
+80,For Whom the Bell Tolls ,6.8,9779.0
+81,Heaven Can Wait ,6.9,22323.0
+82,The Human Comedy ,7.0,2298.0
+83,Madame Curie ,7.2,3027.0
+84,The Song of Bernadette ,7.6,7301.0
+85,Gaslight ,7.4,23550.0
+86,Wilson ,5.8,10851.0
+87,The Lost Weekend ,7.9,38560.0
+88,Anchors Aweigh ,7.0,9097.0
+89,Mildred Pierce ,7.9,27228.0
+90,Spellbound ,,
+91,Henry V ,7.5,30647.0
+92,The Razor's Edge ,6.4,5665.0
+93,The Yearling ,7.2,6165.0
+94,Crossfire ,5.7,2340.0
+95,Great Expectations ,4.9,2169.0
+96,Hamlet ,7.7,38945.0
+97,Johnny Belinda ,7.7,5064.0
+98,The Red Shoes ,8.1,36741.0
+99,The Treasure of the Sierra Madre ,8.2,127703.0
+100,All the King's Men ,6.1,25115.0
+101,Battleground ,7.4,7548.0
+102,Born Yesterday ,7.5,11779.0
+103,Father of the Bride ,6.5,80195.0
+104,King Solomon's Mines ,5.2,14154.0
+105,Sunset Boulevard ,,
+106,An American in Paris ,7.2,35210.0
+107,A Place in the Sun ,7.7,23570.0
+108,Quo Vadis ,7.1,15868.0
+109,A Streetcar Named Desire ,7.9,110938.0
+110,Ivanhoe ,6.7,5233.0
+111,Moulin Rouge ,7.6,290938.0
+112,Julius Caesar ,7.2,12139.0
+113,The Robe ,6.7,11057.0
+114,Shane ,7.6,42337.0
+115,The Caine Mutiny ,7.7,28651.0
+116,The Country Girl ,7.2,6315.0
+117,Three Coins in the Fountain ,6.2,3571.0
+118,Marty ,7.7,25482.0
+119,Love Is a Many-Splendored Thing ,6.4,5166.0
+120,Mister Roberts ,7.6,17541.0
+121,Picnic ,7.0,9268.0
+122,The Rose Tattoo ,6.9,4275.0
+123,Around the World in 80 Days ,7.2,10809.0
+124,Friendly Persuasion ,7.3,7375.0
+125,Giant ,7.6,40537.0
+126,The King and I ,7.4,27069.0
+127,The Ten Commandments ,7.9,74236.0
+128,12 Angry Men ,9.0,810542.0
+129,Peyton Place ,7.3,641.0
+130,Witness for the Prosecution ,8.4,129180.0
+131,Gigi ,6.6,23682.0
+132,Auntie Mame ,7.9,11975.0
+133,Cat on a Hot Tin Roof ,7.9,51321.0
+134,Separate Tables ,7.4,8172.0
+135,Ben-Hur ,8.1,244786.0
+136,The Diary of Anne Frank ,7.4,13207.0
+137,The Nun's Story ,7.5,11179.0
+138,Room at the Top ,7.5,6764.0
+139,The Alamo ,6.8,16655.0
+140,Elmer Gantry ,7.7,12179.0
+141,Sons and Lovers ,7.1,1682.0
+142,The Sundowners ,7.1,4534.0
+143,West Side Story ,7.2,88103.0
+144,Fanny ,6.8,2476.0
+145,The Guns of Navarone ,7.5,53091.0
+146,Lawrence of Arabia ,8.3,300510.0
+147,The Longest Day ,7.7,57334.0
+148,The Music Man ,7.7,18321.0
+149,Mutiny on the Bounty ,7.2,17072.0
+150,To Kill a Mockingbird ,8.3,321747.0
+151,Tom Jones ,4.8,412.0
+152,Cleopatra ,,
+153,How the West Was Won ,7.0,22025.0
+154,Lilies of the Field ,7.5,12527.0
+155,My Fair Lady ,7.8,98305.0
+156,Becket ,7.8,15266.0
+157,Mary Poppins ,7.8,178103.0
+158,Zorba the Greek ,7.6,23260.0
+159,The Sound of Music ,8.1,244027.0
+160,Darling ,6.2,113753.0
+161,Doctor Zhivago ,7.9,79217.0
+162,Ship of Fools ,7.0,6517.0
+163,A Man for All Seasons ,7.7,35822.0
+164,Alfie ,6.2,53899.0
+165,"The Russians Are Coming, the Russians Are Coming",7.0,9316.0
+166,The Sand Pebbles ,7.5,15652.0
+167,Who's Afraid of Virginia Woolf? ,8.0,77348.0
+168,In the Heat of the Night ,7.6,5649.0
+169,Bonnie and Clyde ,7.7,116284.0
+170,Doctor Dolittle ,5.4,99350.0
+171,Oliver! ,7.4,39921.0
+172,Funny Girl ,7.3,23869.0
+173,The Lion in Winter ,7.9,32541.0
+174,Romeo and Juliet ,7.6,33417.0
+175,"Hello, Dolly! ",7.0,16126.0
+176,Z ,8.2,29921.0
+177,Patton ,7.9,104860.0
+178,Airport ,6.6,20129.0
+179,Love Story ,6.9,35647.0
+180,M*A*S*H ,8.4,59843.0
+181,The French Connection ,7.7,127344.0
+182,A Clockwork Orange ,8.3,846321.0
+183,Fiddler on the Roof ,8.0,45321.0
+184,Cabaret ,7.8,57026.0
+185,The Emigrants ,6.6,2037.0
+186,Sounder ,7.5,4533.0
+187,A Touch of Class ,6.5,3301.0
+188,Chinatown ,8.2,334051.0
+189,Lenny ,7.6,16725.0
+190,One Flew Over the Cuckoo's Nest ,8.7,1026771.0
+191,Jaws ,8.1,622190.0
+192,Nashville ,7.7,26514.0
+193,All the President's Men ,7.9,119851.0
+194,Bound for Glory ,7.3,5384.0
+195,Network ,8.1,163186.0
+196,Julia ,8.3,9121.0
+197,Star Wars ,7.0,21045.0
+198,The Turning Point ,6.8,4878.0
+199,Coming Home ,7.3,14023.0
+200,Heaven Can Wait ,6.9,22323.0
+201,Midnight Express ,7.5,83992.0
+202,All That Jazz ,7.8,33356.0
+203,Coal Miner's Daughter ,7.5,19545.0
+204,The Elephant Man ,8.2,247328.0
+205,Tess ,7.3,17441.0
+206,Atlantic City ,7.3,17563.0
+207,On Golden Pond ,7.6,32992.0
+208,Reds ,7.3,23693.0
+209,Gandhi ,8.0,236045.0
+210,Missing ,7.1,28473.0
+211,The Big Chill ,7.1,39246.0
+212,The Dresser ,7.5,5467.0
+213,The Right Stuff ,7.8,63106.0
+214,Amadeus ,8.4,409043.0
+215,The Killing Fields ,7.8,57137.0
+216,A Passage to India ,7.3,19621.0
+217,Out of Africa ,7.1,82981.0
+218,The Color Purple ,,
+219,Kiss of the Spider Woman ,7.3,16686.0
+220,Witness ,7.4,99282.0
+221,Platoon ,8.1,422633.0
+222,Children of a Lesser God ,7.2,17827.0
+223,The Mission ,7.4,63216.0
+224,A Room with a View ,7.2,45388.0
+225,Broadcast News ,7.2,32519.0
+226,Hope and Glory ,7.3,13963.0
+227,The Accidental Tourist ,6.7,16744.0
+228,Born on the Fourth of July ,7.2,110794.0
+229,Ghost ,7.1,224994.0
+230,The Silence of the Lambs ,8.6,1464229.0
+231,Beauty and the Beast ,7.1,318261.0
+232,JFK ,8.0,161615.0
+233,Howards End ,7.4,34027.0
+234,Scent of a Woman ,8.0,308964.0
+235,The Fugitive ,7.8,304022.0
+236,In the Name of the Father ,8.1,179554.0
+237,The Remains of the Day ,7.8,78266.0
+238,Quiz Show ,7.5,71373.0
+239,Apollo 13 ,7.7,302775.0
+240,Babe ,6.9,129210.0
+241,Il Postino: The Postman,,
+242,Sense and Sensibility ,7.7,119907.0
+243,The English Patient ,7.4,194708.0
+244,Fargo ,8.9,382775.0
+245,Shine ,7.6,55253.0
+246,Titanic ,7.9,1217053.0
+247,L.A. Confidential ,8.2,592245.0
+248,Elizabeth ,7.4,102061.0
+249,The Thin Red Line ,7.6,192494.0
+250,American Beauty ,8.3,1171981.0
+251,The Cider House Rules ,7.4,102011.0
+252,The Green Mile ,8.6,1331825.0
+253,The Insider ,7.8,174681.0
+254,Gladiator ,8.5,1532742.0
+255,Chocolat ,7.3,195845.0
+256,Erin Brockovich ,7.4,206398.0
+257,Traffic ,7.6,212423.0
+258,A Beautiful Mind ,8.2,948735.0
+259,Chicago ,8.0,59923.0
+260,The Hours ,7.5,134755.0
+261,The Pianist ,8.5,853771.0
+262,Lost in Translation ,7.7,466486.0
+263,Mystic River ,7.9,466921.0
+264,Seabiscuit ,7.3,74983.0
+265,The Aviator ,7.5,370586.0
+266,Finding Neverland ,7.7,208829.0
+267,Ray ,8.3,89664.0
+268,Crash ,6.4,63233.0
+269,Capote ,7.3,136266.0
+270,"Good Night, and Good Luck",7.4,99444.0
+271,Munich ,7.5,231817.0
+272,Babel ,7.5,308766.0
+273,The Queen ,8.6,487015.0
+274,Atonement ,7.8,286842.0
+275,Juno ,7.5,532244.0
+276,Michael Clayton ,7.2,169507.0
+277,The Curious Case of Benjamin Button ,7.8,666645.0
+278,Frost/Nixon ,7.7,110097.0
+279,Milk ,7.5,176098.0
+280,The Reader ,7.6,251339.0
+281,Avatar ,7.7,376925.0
+282,The Blind Side ,7.6,343450.0
+283,Precious ,7.3,113275.0
+284,Up ,8.3,1066883.0
+285,Up in the Air ,7.4,341623.0
+286,Black Swan ,8.0,787178.0
+287,The Kids Are All Right ,7.0,132207.0
+288,True Grit ,7.6,346416.0
+289,The Artist ,7.9,244636.0
+290,Extremely Loud & Incredibly Close ,6.9,103510.0
+291,The Help ,8.1,471448.0
+292,Hugo ,7.5,328364.0
+293,Moneyball ,7.6,438146.0
+294,The Tree of Life ,6.8,180237.0
+295,War Horse ,7.2,161086.0
+296,Argo ,7.7,624042.0
+297,Amour ,7.6,5848.0
+298,Life of Pi ,7.9,644279.0
+299,Lincoln ,7.3,265354.0
+300,Les Misérables ,7.5,336057.0
+301,12 Years a Slave ,8.1,714599.0
+302,Captain Phillips ,7.8,472252.0
+303,Gravity ,7.7,839661.0
+304,Her ,8.0,634291.0
+305,Nebraska ,7.7,120183.0
+306,Philomena ,7.6,101853.0
+307,The Wolf of Wall Street ,8.2,1458210.0
+308,Birdman ,7.7,644522.0
+309,Boyhood ,7.9,359742.0
+310,Selma ,7.5,93187.0
+311,The Theory of Everything ,7.7,462950.0
+312,Whiplash ,8.5,900884.0
+313,Spotlight ,8.1,481249.0
+314,The Big Short ,7.8,445748.0
+315,Bridge of Spies ,7.6,317865.0
+316,Brooklyn ,8.4,331758.0
+317,The Martian ,8.0,877293.0
+318,The Revenant ,8.0,826071.0
+319,Room ,8.1,430907.0
+320,Moonlight ,7.4,317509.0
+321,Arrival ,7.9,716903.0
+322,Fences ,7.2,111985.0
+323,Hell or High Water ,7.6,238437.0
+324,Lion ,8.0,242287.0
+325,Manchester by the Sea ,7.8,292956.0
+326,Call Me by Your Name ,7.8,287315.0
+327,Darkest Hour ,7.4,208954.0
+328,Dunkirk ,7.8,680423.0
+329,Lady Bird ,7.4,303288.0
+330,The Post ,7.2,156014.0
+331,Green Book ,8.2,516910.0
+332,Black Panther ,6.7,264664.0
+333,Bohemian Rhapsody ,7.9,554739.0
+334,Roma ,7.7,163385.0
+335,A Star Is Born ,7.6,396759.0
+336,Vice ,7.2,153327.0
+337,Parasite ,8.5,850243.0
+338,Joker ,8.4,1348529.0
+339,Little Women ,7.8,218233.0
+340,1917 ,8.2,618335.0
+341,Nomadland ,7.3,169978.0
+342,The Father ,8.2,167233.0
+343,Minari ,7.4,86740.0
+344,CODA ,8.0,145243.0
+345,Belfast ,7.3,80495.0
+346,Drive My Car ,7.6,57108.0
+347,Dune ,8.0,671939.0
+348,King Richard ,7.5,121695.0
+349,Nightmare Alley ,7.0,152429.0
+350,The Power of the Dog ,6.8,182145.0
+351,West Side Story ,7.2,88106.0
+352,All Quiet on the Western Front ,8.1,65387.0
+353,Elvis ,7.3,207142.0
+354,Women Talking ,6.9,29341.0

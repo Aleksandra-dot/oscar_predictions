@@ -1,0 +1,396 @@
+year,film,wiki,winner
+1943,The Song of Bernadette ,/wiki/The_Song_of_Bernadette_(film),True
+1944,Going My Way,/wiki/Going_My_Way,True
+1945,The Lost Weekend ,/wiki/The_Lost_Weekend_(film),True
+1946,The Best Years of Our Lives,/wiki/The_Best_Years_of_Our_Lives,True
+1947,Gentleman's Agreement,/wiki/Gentleman%27s_Agreement,True
+1948,Johnny Belinda ,/wiki/Johnny_Belinda_(1948_film),True
+1948,The Treasure of the Sierra Madre ,/wiki/The_Treasure_of_the_Sierra_Madre_(film),True
+1949,All the King's Men ,/wiki/All_the_King%27s_Men_(1949_film),True
+1949,Come to the Stable,/wiki/Come_to_the_Stable,False
+1950,Sunset Boulevard ,/wiki/Sunset_Boulevard_(1950_film),True
+1950,All About Eve,/wiki/All_About_Eve,False
+1950,Born Yesterday ,/wiki/Born_Yesterday_(1950_film),False
+1950,Cyrano de Bergerac ,/wiki/Cyrano_de_Bergerac_(1950_film),False
+1950,Harvey ,/wiki/Harvey_(1950_film),False
+1951,A Place in the Sun ,/wiki/A_Place_in_the_Sun_(1951_film),True
+1951,Bright Victory,/wiki/Bright_Victory,False
+1951,Detective Story ,/wiki/Detective_Story_(1951_film),False
+1951,Quo Vadis ,/wiki/Quo_Vadis_(1951_film),False
+1951,A Streetcar Named Desire ,/wiki/A_Streetcar_Named_Desire_(1951_film),False
+1952,The Greatest Show on Earth ,/wiki/The_Greatest_Show_on_Earth_(film),True
+1952,"Come Back, Little Sheba ","/wiki/Come_Back,_Little_Sheba_(1952_film)",False
+1952,The Happy Time,/wiki/The_Happy_Time,False
+1952,High Noon,/wiki/High_Noon,False
+1952,The Thief ,/wiki/The_Thief_(1952_film),False
+1953,The Robe ,/wiki/The_Robe_(film),True
+1954,On the Waterfront,/wiki/On_the_Waterfront,True
+1955,East of Eden ,/wiki/East_of_Eden_(film),True
+1956,Around the World in 80 Days ,/wiki/Around_the_World_in_80_Days_(1956_film),True
+1956,Giant ,/wiki/Giant_(1956_film),False
+1956,Lust for Life ,/wiki/Lust_for_Life_(1956_film),False
+1956,The Rainmaker ,/wiki/The_Rainmaker_(1956_film),False
+1956,War and Peace ,/wiki/War_and_Peace_(1956_film),False
+1957,The Bridge on the River Kwai,/wiki/The_Bridge_on_the_River_Kwai,True
+1957,12 Angry Men ,/wiki/12_Angry_Men_(1957_film),False
+1957,Sayonara,/wiki/Sayonara,False
+1957,Wild Is the Wind,/wiki/Wild_Is_the_Wind,False
+1957,Witness for the Prosecution ,/wiki/Witness_for_the_Prosecution_(1957_film),False
+1958,The Defiant Ones ,/wiki/The_Defiant_Ones_(film),True
+1958,Cat on a Hot Tin Roof ,/wiki/Cat_on_a_Hot_Tin_Roof_(1958_film),False
+1958,Home Before Dark ,/wiki/Home_Before_Dark_(film),False
+1958,I Want to Live!,/wiki/I_Want_to_Live!,False
+1958,Separate Tables ,/wiki/Separate_Tables_(film),False
+1959,Ben-Hur ,/wiki/Ben-Hur_(1959_film),True
+1959,Anatomy of a Murder,/wiki/Anatomy_of_a_Murder,False
+1959,The Diary of Anne Frank ,/wiki/The_Diary_of_Anne_Frank_(1959_film),False
+1959,The Nun's Story ,/wiki/The_Nun%27s_Story_(film),False
+1959,On the Beach ,/wiki/On_the_Beach_(1959_film),False
+1960,Spartacus ,/wiki/Spartacus_(film),True
+1960,Elmer Gantry ,/wiki/Elmer_Gantry_(film),False
+1960,Inherit the Wind ,/wiki/Inherit_the_Wind_(1960_film),False
+1960,Sons and Lovers ,/wiki/Sons_and_Lovers_(film),False
+1960,Sunrise at Campobello,/wiki/Sunrise_at_Campobello,False
+1961,The Guns of Navarone ,/wiki/The_Guns_of_Navarone_(film),True
+1961,El Cid ,/wiki/El_Cid_(film),False
+1961,Fanny ,/wiki/Fanny_(1961_film),False
+1961,Judgment at Nuremberg,/wiki/Judgment_at_Nuremberg,False
+1961,Splendor in the Grass,/wiki/Splendor_in_the_Grass,False
+1962,Lawrence of Arabia ,/wiki/Lawrence_of_Arabia_(film),True
+1962,The Chapman Report,/wiki/The_Chapman_Report,False
+1962,Days of Wine and Roses ,/wiki/Days_of_Wine_and_Roses_(film),False
+1962,Freud: The Secret Passion,/wiki/Freud:_The_Secret_Passion,False
+1962,Hemingway's Adventures of a Young Man,/wiki/Hemingway%27s_Adventures_of_a_Young_Man,False
+1962,The Inspector ,/wiki/The_Inspector_(1962_film),False
+1962,The Longest Day ,/wiki/The_Longest_Day_(film),False
+1962,The Miracle Worker ,/wiki/The_Miracle_Worker_(1962_film),False
+1962,Mutiny on the Bounty ,/wiki/Mutiny_on_the_Bounty_(1962_film),False
+1962,To Kill a Mockingbird ,/wiki/To_Kill_a_Mockingbird_(film),False
+1963,The Cardinal,/wiki/The_Cardinal,True
+1963,America America,/wiki/America_America,False
+1963,"Captain Newman, M.D.","/wiki/Captain_Newman,_M.D.",False
+1963,The Caretakers,/wiki/The_Caretakers,False
+1963,Cleopatra ,/wiki/Cleopatra_(1963_film),False
+1963,The Great Escape ,/wiki/The_Great_Escape_(film),False
+1963,Hud ,/wiki/Hud_(1963_film),False
+1963,Lilies of the Field ,/wiki/Lilies_of_the_Field_(1963_film),False
+1964,Becket ,/wiki/Becket_(1964_film),True
+1964,The Chalk Garden ,/wiki/The_Chalk_Garden_(film),False
+1964,Dear Heart,/wiki/Dear_Heart,False
+1964,The Night of the Iguana ,/wiki/The_Night_of_the_Iguana_(film),False
+1964,Zorba the Greek ,/wiki/Zorba_the_Greek_(film),False
+1965,Doctor Zhivago ,/wiki/Doctor_Zhivago_(film),True
+1965,The Collector ,/wiki/The_Collector_(1965_film),False
+1965,The Flight of the Phoenix ,/wiki/The_Flight_of_the_Phoenix_(1965_film),False
+1965,A Patch of Blue,/wiki/A_Patch_of_Blue,False
+1965,Ship of Fools ,/wiki/Ship_of_Fools_(film),False
+1965,A Man for All Seasons ,/wiki/A_Man_for_All_Seasons_(1966_film),True
+1965,Born Free,/wiki/Born_Free,False
+1965,The Professionals ,/wiki/The_Professionals_(1966_film),False
+1965,The Sand Pebbles ,/wiki/The_Sand_Pebbles_(film),False
+1965,Who's Afraid of Virginia Woolf? ,/wiki/Who%27s_Afraid_of_Virginia_Woolf%3F_(film),False
+1967,In the Heat of the Night ,/wiki/In_the_Heat_of_the_Night_(film),True
+1967,Bonnie and Clyde ,/wiki/Bonnie_and_Clyde_(film),False
+1967,Far from the Madding Crowd ,/wiki/Far_from_the_Madding_Crowd_(1967_film),False
+1967,Guess Who's Coming to Dinner,/wiki/Guess_Who%27s_Coming_to_Dinner,False
+1967,In Cold Blood ,/wiki/In_Cold_Blood_(film),False
+1968,The Lion in Winter ,/wiki/The_Lion_in_Winter_(1968_film),True
+1968,Charly,/wiki/Charly,False
+1968,The Fixer ,/wiki/The_Fixer_(1968_film),False
+1968,The Heart Is a Lonely Hunter ,/wiki/The_Heart_Is_a_Lonely_Hunter_(film),False
+1968,The Shoes of the Fisherman ,/wiki/The_Shoes_of_the_Fisherman_(movie),False
+1969,Anne of the Thousand Days,/wiki/Anne_of_the_Thousand_Days,True
+1969,Butch Cassidy and the Sundance Kid,/wiki/Butch_Cassidy_and_the_Sundance_Kid,False
+1969,Midnight Cowboy,/wiki/Midnight_Cowboy,False
+1969,The Prime of Miss Jean Brodie ,/wiki/The_Prime_of_Miss_Jean_Brodie_(film),False
+1969,"They Shoot Horses, Don't They? ","/wiki/They_Shoot_Horses,_Don%27t_They%3F_(film)",False
+1970,Love Story ,/wiki/Love_Story_(1970_film),True
+1970,Airport ,/wiki/Airport_(1970_film),False
+1970,Five Easy Pieces,/wiki/Five_Easy_Pieces,False
+1970,I Never Sang for My Father,/wiki/I_Never_Sang_for_My_Father,False
+1970,Patton ,/wiki/Patton_(film),False
+1971,The French Connection ,/wiki/The_French_Connection_(film),True
+1971,A Clockwork Orange ,/wiki/A_Clockwork_Orange_(film),False
+1971,The Last Picture Show,/wiki/The_Last_Picture_Show,False
+1971,"Mary, Queen of Scots ","/wiki/Mary,_Queen_of_Scots_(1971_film)",False
+1971,Summer of '42,/wiki/Summer_of_%2742,False
+1972,The Godfather,/wiki/The_Godfather,True
+1972,Deliverance,/wiki/Deliverance,False
+1972,Frenzy,/wiki/Frenzy,False
+1972,The Poseidon Adventure ,/wiki/The_Poseidon_Adventure_(1972_film),False
+1972,Sleuth ,/wiki/Sleuth_(1972_film),False
+1973,The Exorcist,/wiki/The_Exorcist,True
+1973,Cinderella Liberty,/wiki/Cinderella_Liberty,False
+1973,The Day of the Jackal ,/wiki/The_Day_of_the_Jackal_(film),False
+1973,Last Tango in Paris,/wiki/Last_Tango_in_Paris,False
+1973,Save the Tiger,/wiki/Save_the_Tiger,False
+1973,Serpico,/wiki/Serpico,False
+1974,Chinatown ,/wiki/Chinatown_(1974_film),True
+1974,The Conversation,/wiki/The_Conversation,False
+1974,Earthquake ,/wiki/Earthquake_(1974_film),False
+1974,The Godfather Part II,/wiki/The_Godfather_Part_II,False
+1974,A Woman Under the Influence,/wiki/A_Woman_Under_the_Influence,False
+1975,One Flew Over the Cuckoo's Nest ,/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(film),True
+1975,Barry Lyndon,/wiki/Barry_Lyndon,False
+1975,Dog Day Afternoon,/wiki/Dog_Day_Afternoon,False
+1975,Jaws ,/wiki/Jaws_(film),False
+1975,Nashville ,/wiki/Nashville_(film),False
+1976,Rocky,/wiki/Rocky,True
+1976,All the President's Men ,/wiki/All_the_President%27s_Men_(film),False
+1976,Bound for Glory ,/wiki/Bound_for_Glory_(1976_film),False
+1976,Network ,/wiki/Network_(1976_film),False
+1976,Voyage of the Damned,/wiki/Voyage_of_the_Damned,False
+1977,The Turning Point ,/wiki/The_Turning_Point_(1977_film),True
+1977,Close Encounters of the Third Kind,/wiki/Close_Encounters_of_the_Third_Kind,False
+1977,I Never Promised You a Rose Garden ,/wiki/I_Never_Promised_You_a_Rose_Garden_(film),False
+1977,Julia ,/wiki/Julia_(1977_film),False
+1977,Star Wars ,/wiki/Star_Wars_(film),False
+1978,Midnight Express ,/wiki/Midnight_Express_(film),True
+1978,Coming Home ,/wiki/Coming_Home_(1978_film),False
+1978,Days of Heaven,/wiki/Days_of_Heaven,False
+1978,The Deer Hunter,/wiki/The_Deer_Hunter,False
+1978,An Unmarried Woman,/wiki/An_Unmarried_Woman,False
+1979,Kramer vs. Kramer,/wiki/Kramer_vs._Kramer,True
+1979,Apocalypse Now,/wiki/Apocalypse_Now,False
+1979,The China Syndrome,/wiki/The_China_Syndrome,False
+1979,Manhattan ,/wiki/Manhattan_(1979_film),False
+1979,Norma Rae,/wiki/Norma_Rae,False
+1980,Ordinary People,/wiki/Ordinary_People,True
+1980,The Elephant Man ,/wiki/The_Elephant_Man_(film),False
+1980,The Ninth Configuration,/wiki/The_Ninth_Configuration,False
+1980,Raging Bull,/wiki/Raging_Bull,False
+1980,The Stunt Man,/wiki/The_Stunt_Man,False
+1981,On Golden Pond ,/wiki/On_Golden_Pond_(1981_film),True
+1981,The French Lieutenant's Woman ,/wiki/The_French_Lieutenant%27s_Woman_(film),False
+1981,Prince of the City,/wiki/Prince_of_the_City,False
+1981,Ragtime ,/wiki/Ragtime_(film),False
+1981,Reds ,/wiki/Reds_(film),False
+1982,E.T. the Extra-Terrestrial,/wiki/E.T._the_Extra-Terrestrial,True
+1982,Missing ,/wiki/Missing_(1982_film),False
+1982,An Officer and a Gentleman,/wiki/An_Officer_and_a_Gentleman,False
+1982,Sophie's Choice ,/wiki/Sophie%27s_Choice_(film),False
+1982,The Verdict,/wiki/The_Verdict,False
+1983,Terms of Endearment,/wiki/Terms_of_Endearment,True
+1983,"Reuben, Reuben","/wiki/Reuben,_Reuben",False
+1983,The Right Stuff ,/wiki/The_Right_Stuff_(film),False
+1983,Silkwood,/wiki/Silkwood,False
+1983,Tender Mercies,/wiki/Tender_Mercies,False
+1984,Amadeus ,/wiki/Amadeus_(film),True
+1984,The Cotton Club ,/wiki/The_Cotton_Club_(film),False
+1984,The Killing Fields ,/wiki/The_Killing_Fields_(film),False
+1984,Places in the Heart,/wiki/Places_in_the_Heart,False
+1984,A Soldier's Story,/wiki/A_Soldier%27s_Story,False
+1985,Out of Africa ,/wiki/Out_of_Africa_(film),True
+1985,The Color Purple ,/wiki/The_Color_Purple_(1985_film),False
+1985,Kiss of the Spider Woman ,/wiki/Kiss_of_the_Spider_Woman_(film),False
+1985,Runaway Train ,/wiki/Runaway_Train_(film),False
+1985,Witness ,/wiki/Witness_(1985_film),False
+1986,Platoon ,/wiki/Platoon_(film),True
+1986,Children of a Lesser God ,/wiki/Children_of_a_Lesser_God_(film),False
+1986,The Mission ,/wiki/The_Mission_(1986_film),False
+1986,Mona Lisa ,/wiki/Mona_Lisa_(1986_film),False
+1986,A Room with a View ,/wiki/A_Room_with_a_View_(1985_film),False
+1986,Stand by Me ,/wiki/Stand_by_Me_(film),False
+1987,The Last Emperor,/wiki/The_Last_Emperor,True
+1987,Cry Freedom,/wiki/Cry_Freedom,False
+1987,Empire of the Sun ,/wiki/Empire_of_the_Sun_(film),False
+1987,Fatal Attraction,/wiki/Fatal_Attraction,False
+1987,La Bamba ,/wiki/La_Bamba_(film),False
+1987,Nuts ,/wiki/Nuts_(1987_film),False
+1988,Rain Man,/wiki/Rain_Man,True
+1988,The Accidental Tourist ,/wiki/The_Accidental_Tourist_(film),False
+1988,Evil Angels ,/wiki/Evil_Angels_(film),False
+1988,Gorillas in the Mist,/wiki/Gorillas_in_the_Mist,False
+1988,Mississippi Burning,/wiki/Mississippi_Burning,False
+1988,Running on Empty ,/wiki/Running_on_Empty_(1988_film),False
+1988,The Unbearable Lightness of Being ,/wiki/The_Unbearable_Lightness_of_Being_(film),False
+1989,Born on the Fourth of July ,/wiki/Born_on_the_Fourth_of_July_(film),True
+1989,Crimes and Misdemeanors,/wiki/Crimes_and_Misdemeanors,False
+1989,Dead Poets Society,/wiki/Dead_Poets_Society,False
+1989,Do the Right Thing,/wiki/Do_the_Right_Thing,False
+1989,Glory ,/wiki/Glory_(1989_film),False
+1990,Dances with Wolves,/wiki/Dances_with_Wolves,True
+1990,Avalon ,/wiki/Avalon_(1990_film),False
+1990,The Godfather Part III,/wiki/The_Godfather_Part_III,False
+1990,Goodfellas,/wiki/Goodfellas,False
+1990,Reversal of Fortune,/wiki/Reversal_of_Fortune,False
+1991,Bugsy,/wiki/Bugsy,True
+1991,JFK ,/wiki/JFK_(film),False
+1991,The Prince of Tides,/wiki/The_Prince_of_Tides,False
+1991,The Silence of the Lambs ,/wiki/The_Silence_of_the_Lambs_(film),False
+1991,Thelma & Louise,/wiki/Thelma_%26_Louise,False
+1991,Scent of a Woman ,/wiki/Scent_of_a_Woman_(1992_film),True
+1991,The Crying Game,/wiki/The_Crying_Game,False
+1991,A Few Good Men,/wiki/A_Few_Good_Men,False
+1991,Howards End ,/wiki/Howards_End_(film),False
+1991,Unforgiven,/wiki/Unforgiven,False
+1991,Schindler's List,/wiki/Schindler%27s_List,True
+1991,The Age of Innocence ,/wiki/The_Age_of_Innocence_(1993_film),False
+1991,In the Name of the Father ,/wiki/In_the_Name_of_the_Father_(film),False
+1991,The Piano,/wiki/The_Piano,False
+1991,The Remains of the Day ,/wiki/The_Remains_of_the_Day_(film),False
+1994,Forrest Gump,/wiki/Forrest_Gump,True
+1994,Legends of the Fall,/wiki/Legends_of_the_Fall,False
+1994,Nell ,/wiki/Nell_(film),False
+1994,Pulp Fiction,/wiki/Pulp_Fiction,False
+1994,Quiz Show ,/wiki/Quiz_Show_(film),False
+1995,Sense and Sensibility ,/wiki/Sense_and_Sensibility_(film),True
+1995,Apollo 13 ,/wiki/Apollo_13_(film),False
+1995,Braveheart,/wiki/Braveheart,False
+1995,The Bridges of Madison County ,/wiki/The_Bridges_of_Madison_County_(film),False
+1995,Leaving Las Vegas,/wiki/Leaving_Las_Vegas,False
+1996,The English Patient ,/wiki/The_English_Patient_(film),True
+1996,Breaking the Waves,/wiki/Breaking_the_Waves,False
+1996,The People vs. Larry Flynt,/wiki/The_People_vs._Larry_Flynt,False
+1996,Secrets & Lies ,/wiki/Secrets_%26_Lies_(film),False
+1996,Shine ,/wiki/Shine_(film),False
+1997,Titanic ,/wiki/Titanic_(1997_film),True
+1997,Amistad ,/wiki/Amistad_(film),False
+1997,The Boxer ,/wiki/The_Boxer_(1997_film),False
+1997,Good Will Hunting,/wiki/Good_Will_Hunting,False
+1997,L.A. Confidential ,/wiki/L.A._Confidential_(film),False
+1998,Saving Private Ryan,/wiki/Saving_Private_Ryan,True
+1998,Elizabeth ,/wiki/Elizabeth_(film),False
+1998,Gods and Monsters ,/wiki/Gods_and_Monsters_(film),False
+1998,The Horse Whisperer ,/wiki/The_Horse_Whisperer_(film),False
+1998,The Truman Show,/wiki/The_Truman_Show,False
+1999,American Beauty ,/wiki/American_Beauty_(1999_film),True
+1999,The End of the Affair ,/wiki/The_End_of_the_Affair_(1999_film),False
+1999,The Hurricane ,/wiki/The_Hurricane_(1999_film),False
+1999,The Insider ,/wiki/The_Insider_(film),False
+1999,The Talented Mr. Ripley ,/wiki/The_Talented_Mr._Ripley_(film),False
+2000,Gladiator ,/wiki/Gladiator_(2000_film),True
+2000,Billy Elliot,/wiki/Billy_Elliot,False
+2000,Erin Brockovich ,/wiki/Erin_Brockovich_(film),False
+2000,Sunshine ,/wiki/Sunshine_(1999_film),False
+2000,Traffic ,/wiki/Traffic_(2000_film),False
+2000,Wonder Boys ,/wiki/Wonder_Boys_(film),False
+2001,A Beautiful Mind ,/wiki/A_Beautiful_Mind_(film),True
+2001,In the Bedroom,/wiki/In_the_Bedroom,False
+2001,The Lord of the Rings: The Fellowship of the Ring,/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring,False
+2001,The Man Who Wasn't There ,/wiki/The_Man_Who_Wasn%27t_There_(2001_film),False
+2001,Mulholland Drive ,/wiki/Mulholland_Drive_(film),False
+2002,The Hours ,/wiki/The_Hours_(film),True
+2002,About Schmidt,/wiki/About_Schmidt,False
+2002,Gangs of New York,/wiki/Gangs_of_New_York,False
+2002,The Lord of the Rings: The Two Towers,/wiki/The_Lord_of_the_Rings:_The_Two_Towers,False
+2002,The Pianist ,/wiki/The_Pianist_(2002_film),False
+2003,The Lord of the Rings: The Return of the King,/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King,True
+2003,Cold Mountain ,/wiki/Cold_Mountain_(film),False
+2003,Master and Commander: The Far Side of the World,/wiki/Master_and_Commander:_The_Far_Side_of_the_World,False
+2003,Mystic River ,/wiki/Mystic_River_(film),False
+2003,Seabiscuit ,/wiki/Seabiscuit_(film),False
+2004,The Aviator ,/wiki/The_Aviator_(2004_film),True
+2004,Closer ,/wiki/Closer_(2004_film),False
+2004,Finding Neverland ,/wiki/Finding_Neverland_(film),False
+2004,Hotel Rwanda,/wiki/Hotel_Rwanda,False
+2004,Kinsey ,/wiki/Kinsey_(film),False
+2004,Million Dollar Baby,/wiki/Million_Dollar_Baby,False
+2005,Brokeback Mountain,/wiki/Brokeback_Mountain,True
+2005,The Constant Gardener ,/wiki/The_Constant_Gardener_(film),False
+2005,"Good Night, and Good Luck","/wiki/Good_Night,_and_Good_Luck",False
+2005,A History of Violence,/wiki/A_History_of_Violence,False
+2005,Match Point,/wiki/Match_Point,False
+2006,Babel ,/wiki/Babel_(film),True
+2006,Bobby ,/wiki/Bobby_(2006_film),False
+2006,The Departed,/wiki/The_Departed,False
+2006,Little Children ,/wiki/Little_Children_(film),False
+2006,The Queen ,/wiki/The_Queen_(2006_film),False
+2007,Atonement ,/wiki/Atonement_(2007_film),True
+2007,American Gangster ,/wiki/American_Gangster_(film),False
+2007,Eastern Promises,/wiki/Eastern_Promises,False
+2007,The Great Debaters,/wiki/The_Great_Debaters,False
+2007,Michael Clayton ,/wiki/Michael_Clayton_(film),False
+2007,No Country for Old Men,/wiki/No_Country_for_Old_Men,False
+2007,There Will Be Blood,/wiki/There_Will_Be_Blood,False
+2008,Slumdog Millionaire,/wiki/Slumdog_Millionaire,True
+2008,The Curious Case of Benjamin Button ,/wiki/The_Curious_Case_of_Benjamin_Button_(film),False
+2008,Frost/Nixon ,/wiki/Frost/Nixon_(film),False
+2008,The Reader ,/wiki/The_Reader_(2008_film),False
+2008,Revolutionary Road ,/wiki/Revolutionary_Road_(film),False
+2009,Avatar ,/wiki/Avatar_(2009_film),True
+2009,The Hurt Locker,/wiki/The_Hurt_Locker,False
+2009,Inglourious Basterds,/wiki/Inglourious_Basterds,False
+2009,Precious ,/wiki/Precious_(film),False
+2009,Up in the Air ,/wiki/Up_in_the_Air_(2009_film),False
+2010,The Social Network,/wiki/The_Social_Network,True
+2010,Black Swan ,/wiki/Black_Swan_(film),False
+2010,The Fighter,/wiki/The_Fighter,False
+2010,Inception,/wiki/Inception,False
+2010,The King's Speech,/wiki/The_King%27s_Speech,False
+2011,The Descendants,/wiki/The_Descendants,True
+2011,The Help ,/wiki/The_Help_(film),False
+2011,Hugo ,/wiki/Hugo_(film),False
+2011,The Ides of March ,/wiki/The_Ides_of_March_(2011_film),False
+2011,Moneyball ,/wiki/Moneyball_(film),False
+2011,War Horse ,/wiki/War_Horse_(film),False
+2012,Argo ,/wiki/Argo_(2012_film),True
+2012,Django Unchained,/wiki/Django_Unchained,False
+2012,Life of Pi ,/wiki/Life_of_Pi_(film),False
+2012,Lincoln ,/wiki/Lincoln_(film),False
+2012,Zero Dark Thirty,/wiki/Zero_Dark_Thirty,False
+2013,12 Years a Slave ,/wiki/12_Years_a_Slave_(film),True
+2013,Captain Phillips ,/wiki/Captain_Phillips_(film),False
+2013,Gravity ,/wiki/Gravity_(2013_film),False
+2013,Philomena ,/wiki/Philomena_(film),False
+2013,Rush ,/wiki/Rush_(2013_film),False
+2014,Boyhood ,/wiki/Boyhood_(2014_film),True
+2014,Foxcatcher,/wiki/Foxcatcher,False
+2014,The Imitation Game,/wiki/The_Imitation_Game,False
+2014,Selma ,/wiki/Selma_(film),False
+2014,The Theory of Everything ,/wiki/The_Theory_of_Everything_(2014_film),False
+2015,The Revenant ,/wiki/The_Revenant_(2015_film),True
+2015,Carol ,/wiki/Carol_(film),False
+2015,Mad Max: Fury Road,/wiki/Mad_Max:_Fury_Road,False
+2015,Room ,/wiki/Room_(2015_film),False
+2015,Spotlight ,/wiki/Spotlight_(film),False
+2016,Moonlight ,/wiki/Moonlight_(2016_film),True
+2016,Hacksaw Ridge,/wiki/Hacksaw_Ridge,False
+2016,Hell or High Water ,/wiki/Hell_or_High_Water_(2016_film),False
+2016,Lion ,/wiki/Lion_(2016_film),False
+2016,Manchester by the Sea ,/wiki/Manchester_by_the_Sea_(film),False
+2017,"Three Billboards Outside Ebbing, Missouri","/wiki/Three_Billboards_Outside_Ebbing,_Missouri",True
+2017,Call Me by Your Name ,/wiki/Call_Me_by_Your_Name_(film),False
+2017,Dunkirk ,/wiki/Dunkirk_(2017_film),False
+2017,The Post ,/wiki/The_Post_(film),False
+2017,The Shape of Water,/wiki/The_Shape_of_Water,False
+2018,Bohemian Rhapsody ,/wiki/Bohemian_Rhapsody_(film),True
+2018,Black Panther ,/wiki/Black_Panther_(film),False
+2018,BlacKkKlansman,/wiki/BlacKkKlansman,False
+2018,If Beale Street Could Talk ,/wiki/If_Beale_Street_Could_Talk_(film),False
+2018,A Star Is Born ,/wiki/A_Star_Is_Born_(2018_film),False
+2019,1917 ,/wiki/1917_(2019_film),True
+2019,The Irishman,/wiki/The_Irishman,False
+2019,Joker ,/wiki/Joker_(2019_film),False
+2019,Marriage Story,/wiki/Marriage_Story,False
+2019,The Two Popes,/wiki/The_Two_Popes,False
+"2020
+",Nomadland ,/wiki/Nomadland_(film),True
+"2020
+",The Father ,/wiki/The_Father_(2020_film),False
+"2020
+",Mank,/wiki/Mank,False
+"2020
+",Promising Young Woman,/wiki/Promising_Young_Woman,False
+"2020
+",The Trial of the Chicago 7,/wiki/The_Trial_of_the_Chicago_7,False
+"2021
+",The Power of the Dog ,/wiki/The_Power_of_the_Dog_(film),True
+"2021
+",Belfast ,/wiki/Belfast_(film),False
+"2021
+",CODA ,/wiki/CODA_(2021_film),False
+"2021
+",Dune ,/wiki/Dune_(2021_film),False
+"2021
+",King Richard ,/wiki/King_Richard_(film),False
+"2022
+",The Fabelmans,/wiki/The_Fabelmans,True
+"2022
+",Avatar: The Way of Water,/wiki/Avatar:_The_Way_of_Water,False
+"2022
+",Elvis ,/wiki/Elvis_(2022_film),False
+"2022
+",Tár,/wiki/T%C3%A1r,False
+"2022
+",Top Gun: Maverick,/wiki/Top_Gun:_Maverick,False
