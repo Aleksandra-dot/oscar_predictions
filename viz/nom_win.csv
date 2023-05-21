@@ -1,0 +1,19 @@
+;Percentage;;;;;;
+bafta_nom_percentage;20.918367346938776;;;;;;
+bafta_win_percentage;2.5510204081632653;;;;;;
+gg_drama_nom_percentage;55.10204081632652;;;;;;
+gg_drama_win_percentage;5.612244897959184;;;;;;
+gg_comedy_nom_percentage;21.93877551020408;;;;;;
+gg_comedy_win_percentage;2.0408163265306123;;;;;;
+sag_nom_percentage;22.448979591836736;;;;;;
+sag_win_percentage;3.061224489795918;;;;;;
+pga_nom_percentage;35.204081632653065;;;;;;
+pga_win_percentage;3.571428571428571;;;;;;
+dga_nom_percentage;28.57142857142857;;;;;;
+dga_win_percentage;4.591836734693878;;;;;;
+cannes_nom_percentage;0.5102040816326531;;;;;;
+cannes_win_percentage;0.0;;;;;;
+;;;;;;;
+;BAFTA;Golden Globes Drama;Golden Globes Comedy;SAG;PGA;DGA;Cannes
+Common nominations;20,92%;55,10%;21,94%;22,45%;35,20%;28,57%;0,51%
+Common winners;2,55%;5,61%;2,04%;3,06%;3,57%;4,59%;0,00%
