@@ -1,592 +1,592 @@
-,year,film,wiki,winner,nominations,Oscar_win,nom_gg_drama,winner_gg_drama,nom_gg_comedy,winner_gg_comedy,nom_pga,winner_pga,nom_bafta,winner_bafta,nom_dga,winner_dga,nom_sag,winner_sag,nom_cannes,winner_cannes
-0,1927,Wings ,/wiki/Wings_(1927_film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1,1927,7th Heaven ,/wiki/7th_Heaven_(1927_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2,1927,The Racket ,/wiki/The_Racket_(1928_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-3,1928,The Broadway Melody,/wiki/The_Broadway_Melody,True,3.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-4,1928,Alibi ,/wiki/Alibi_(1929_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-5,1928,Hollywood Revue,/wiki/Hollywood_Revue,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-6,1928,In Old Arizona,/wiki/In_Old_Arizona,False,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-7,1928,The Patriot ,/wiki/The_Patriot_(1928_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-8,1929,All Quiet on the Western Front ,/wiki/All_Quiet_on_the_Western_Front_(1930_film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-9,1929,The Big House ,/wiki/The_Big_House_(1930_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-10,1929,Disraeli ,/wiki/Disraeli_(1929_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-11,1929,The Divorcee,/wiki/The_Divorcee,False,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-12,1929,The Love Parade,/wiki/The_Love_Parade,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-13,1930,Cimarron ,/wiki/Cimarron_(1931_film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-14,1930,East Lynne ,/wiki/East_Lynne_(1931_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-15,1930,The Front Page ,/wiki/The_Front_Page_(1931_film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-16,1930,Skippy ,/wiki/Skippy_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-17,1930,Trader Horn ,/wiki/Trader_Horn_(1931_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-18,1931,Grand Hotel ,/wiki/Grand_Hotel_(1932_film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-19,1931,Arrowsmith ,/wiki/Arrowsmith_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-20,1931,Bad Girl ,/wiki/Bad_Girl_(1931_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-21,1931,The Champ ,/wiki/The_Champ_(1931_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-22,1931,Five Star Final,/wiki/Five_Star_Final,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-23,1931,One Hour with You,/wiki/One_Hour_with_You,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-24,1931,Shanghai Express ,/wiki/Shanghai_Express_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-25,1931,The Smiling Lieutenant,/wiki/The_Smiling_Lieutenant,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-26,1932,Cavalcade ,/wiki/Cavalcade_(1933_film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-27,1932,42nd Street ,/wiki/42nd_Street_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-28,1932,A Farewell to Arms ,/wiki/A_Farewell_to_Arms_(1932_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-29,1932,I Am a Fugitive from a Chain Gang,/wiki/I_Am_a_Fugitive_from_a_Chain_Gang,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-30,1932,Lady for a Day,/wiki/Lady_for_a_Day,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-31,1932,Little Women ,/wiki/Little_Women_(1933_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-32,1932,The Private Life of Henry VIII,/wiki/The_Private_Life_of_Henry_VIII,False,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-33,1932,She Done Him Wrong,/wiki/She_Done_Him_Wrong,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-34,1932,Smilin' Through ,/wiki/Smilin%27_Through_(1932_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-35,1932,State Fair ,/wiki/State_Fair_(1933_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-36,1934,It Happened One Night,/wiki/It_Happened_One_Night,True,5.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37,1934,The Barretts of Wimpole Street ,/wiki/The_Barretts_of_Wimpole_Street_(1934_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38,1934,Cleopatra ,/wiki/Cleopatra_(1934_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-39,1934,Flirtation Walk,/wiki/Flirtation_Walk,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-40,1934,The Gay Divorcee,/wiki/The_Gay_Divorcee,False,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-41,1934,Here Comes the Navy,/wiki/Here_Comes_the_Navy,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-42,1934,The House of Rothschild,/wiki/The_House_of_Rothschild,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-43,1934,Imitation of Life ,/wiki/Imitation_of_Life_(1934_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-44,1934,One Night of Love,/wiki/One_Night_of_Love,False,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-45,1934,The Thin Man ,/wiki/The_Thin_Man_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-46,1934,Viva Villa!,/wiki/Viva_Villa!,False,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-47,1934,The White Parade,/wiki/The_White_Parade,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-48,1935,Mutiny on the Bounty ,/wiki/Mutiny_on_the_Bounty_(1935_film),True,7.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-49,1935,Alice Adams ,/wiki/Alice_Adams_(1935_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-50,1935,Broadway Melody of 1936,/wiki/Broadway_Melody_of_1936,False,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-51,1935,Captain Blood ,/wiki/Captain_Blood_(1935_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-52,1935,David Copperfield ,/wiki/David_Copperfield_(1935_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-53,1935,The Informer ,/wiki/The_Informer_(1935_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-54,1935,The Lives of a Bengal Lancer ,/wiki/The_Lives_of_a_Bengal_Lancer_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-55,1935,A Midsummer Night's Dream ,/wiki/A_Midsummer_Night%27s_Dream_(1935_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-56,1935,Les Misérables ,/wiki/Les_Mis%C3%A9rables_(1935_film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-57,1935,Naughty Marietta ,/wiki/Naughty_Marietta_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-58,1935,Ruggles of Red Gap,/wiki/Ruggles_of_Red_Gap,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-59,1935,Top Hat,/wiki/Top_Hat,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-60,1936,The Great Ziegfeld,/wiki/The_Great_Ziegfeld,True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-61,1936,Anthony Adverse,/wiki/Anthony_Adverse,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-62,1936,Dodsworth ,/wiki/Dodsworth_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-63,1936,Libeled Lady,/wiki/Libeled_Lady,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-64,1936,Mr. Deeds Goes to Town,/wiki/Mr._Deeds_Goes_to_Town,False,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-65,1936,Romeo and Juliet ,/wiki/Romeo_and_Juliet_(1936_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-66,1936,San Francisco ,/wiki/San_Francisco_(1936_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-67,1936,The Story of Louis Pasteur,/wiki/The_Story_of_Louis_Pasteur,False,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68,1936,A Tale of Two Cities ,/wiki/A_Tale_of_Two_Cities_(1935_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-69,1936,Three Smart Girls,/wiki/Three_Smart_Girls,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-70,1937,The Life of Emile Zola,/wiki/The_Life_of_Emile_Zola,True,10.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-71,1937,The Awful Truth,/wiki/The_Awful_Truth,False,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72,1937,Captains Courageous ,/wiki/Captains_Courageous_(1937_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-73,1937,Dead End ,/wiki/Dead_End_(1937_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-74,1937,The Good Earth ,/wiki/The_Good_Earth_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-75,1937,In Old Chicago,/wiki/In_Old_Chicago,False,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-76,1937,Lost Horizon ,/wiki/Lost_Horizon_(1937_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-77,1937,One Hundred Men and a Girl,/wiki/One_Hundred_Men_and_a_Girl,False,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78,1937,Stage Door,/wiki/Stage_Door,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-79,1937,A Star Is Born ,/wiki/A_Star_Is_Born_(1937_film),False,7.0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
-80,1938,You Can't Take It with You ,/wiki/You_Can%27t_Take_It_with_You_(film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-81,1938,The Adventures of Robin Hood,/wiki/The_Adventures_of_Robin_Hood,False,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-82,1938,Alexander's Ragtime Band ,/wiki/Alexander%27s_Ragtime_Band_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-83,1938,Boys Town ,/wiki/Boys_Town_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-84,1938,The Citadel ,/wiki/The_Citadel_(1938_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-85,1938,Four Daughters,/wiki/Four_Daughters,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86,1938,La Grande Illusion,/wiki/La_Grande_Illusion,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87,1938,Jezebel ,/wiki/Jezebel_(1938_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-88,1938,Pygmalion ,/wiki/Pygmalion_(1938_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89,1938,Test Pilot ,/wiki/Test_Pilot_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90,1939,Gone with the Wind ,/wiki/Gone_with_the_Wind_(film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91,1939,Dark Victory,/wiki/Dark_Victory,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-92,1939,"Goodbye, Mr. Chips ","/wiki/Goodbye,_Mr._Chips_(1939_film)",False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-93,1939,Love Affair ,/wiki/Love_Affair_(1939_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94,1939,Mr. Smith Goes to Washington,/wiki/Mr._Smith_Goes_to_Washington,False,11.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95,1939,Ninotchka,/wiki/Ninotchka,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-96,1939,Of Mice and Men ,/wiki/Of_Mice_and_Men_(1939_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97,1939,Stagecoach ,/wiki/Stagecoach_(1939_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-98,1939,The Wizard of Oz ,/wiki/The_Wizard_of_Oz_(1939_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99,1939,Wuthering Heights ,/wiki/Wuthering_Heights_(1939_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-100,1940,Rebecca ,/wiki/Rebecca_(1940_film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-101,1940,"All This, and Heaven Too","/wiki/All_This,_and_Heaven_Too",False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-102,1940,Foreign Correspondent ,/wiki/Foreign_Correspondent_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-103,1940,The Grapes of Wrath ,/wiki/The_Grapes_of_Wrath_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-104,1940,The Great Dictator,/wiki/The_Great_Dictator,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-105,1940,Kitty Foyle ,/wiki/Kitty_Foyle_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-106,1940,The Letter ,/wiki/The_Letter_(1940_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-107,1940,The Long Voyage Home,/wiki/The_Long_Voyage_Home,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-108,1940,Our Town ,/wiki/Our_Town_(1940_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-109,1940,The Philadelphia Story ,/wiki/The_Philadelphia_Story_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-110,1941,How Green Was My Valley ,/wiki/How_Green_Was_My_Valley_(film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-111,1941,Blossoms in the Dust,/wiki/Blossoms_in_the_Dust,False,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-112,1941,Citizen Kane,/wiki/Citizen_Kane,False,9.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-113,1941,Here Comes Mr. Jordan,/wiki/Here_Comes_Mr._Jordan,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-114,1941,Hold Back the Dawn,/wiki/Hold_Back_the_Dawn,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-115,1941,The Little Foxes ,/wiki/The_Little_Foxes_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-116,1941,The Maltese Falcon ,/wiki/The_Maltese_Falcon_(1941_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-117,1941,One Foot in Heaven,/wiki/One_Foot_in_Heaven,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-118,1941,Sergeant York ,/wiki/Sergeant_York_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-119,1941,Suspicion ,/wiki/Suspicion_(1941_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-120,1942,Mrs. Miniver,/wiki/Mrs._Miniver,True,12.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-121,1942,49th Parallel ,/wiki/49th_Parallel_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-122,1942,Kings Row,/wiki/Kings_Row,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-123,1942,The Magnificent Ambersons ,/wiki/The_Magnificent_Ambersons_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-124,1942,The Pied Piper ,/wiki/The_Pied_Piper_(1942_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-125,1942,The Pride of the Yankees,/wiki/The_Pride_of_the_Yankees,False,11.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-126,1942,Random Harvest ,/wiki/Random_Harvest_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-127,1942,The Talk of the Town ,/wiki/The_Talk_of_the_Town_(1942_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-128,1942,Wake Island ,/wiki/Wake_Island_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-129,1942,Yankee Doodle Dandy,/wiki/Yankee_Doodle_Dandy,False,8.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-130,1943,Casablanca ,/wiki/Casablanca_(film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-131,1943,For Whom the Bell Tolls ,/wiki/For_Whom_the_Bell_Tolls_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-132,1943,Heaven Can Wait ,/wiki/Heaven_Can_Wait_(1943_film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-133,1943,The Human Comedy ,/wiki/The_Human_Comedy_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-134,1943,In Which We Serve,/wiki/In_Which_We_Serve,False,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-135,1943,Madame Curie ,/wiki/Madame_Curie_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-136,1943,The More the Merrier,/wiki/The_More_the_Merrier,False,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-137,1943,The Ox-Bow Incident,/wiki/The_Ox-Bow_Incident,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-138,1943,The Song of Bernadette ,/wiki/The_Song_of_Bernadette_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-139,1943,Watch on the Rhine,/wiki/Watch_on_the_Rhine,False,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-140,1944,Going My Way,/wiki/Going_My_Way,True,10.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-141,1944,Double Indemnity,/wiki/Double_Indemnity,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-142,1944,Gaslight ,/wiki/Gaslight_(1944_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-143,1944,Since You Went Away,/wiki/Since_You_Went_Away,False,9.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-144,1944,Wilson ,/wiki/Wilson_(1944_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-145,1945,The Lost Weekend ,/wiki/The_Lost_Weekend_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-146,1945,Anchors Aweigh ,/wiki/Anchors_Aweigh_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-147,1945,The Bells of St. Mary's,/wiki/The_Bells_of_St._Mary%27s,False,8.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-148,1945,Mildred Pierce ,/wiki/Mildred_Pierce_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-149,1945,Spellbound ,/wiki/Spellbound_(1945_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-150,1946,The Best Years of Our Lives,/wiki/The_Best_Years_of_Our_Lives,True,8.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-151,1946,Henry V ,/wiki/Henry_V_(1944_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-152,1946,It's a Wonderful Life,/wiki/It%27s_a_Wonderful_Life,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-153,1946,The Razor's Edge ,/wiki/The_Razor%27s_Edge_(1946_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-154,1946,The Yearling ,/wiki/The_Yearling_(1946_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-155,1947,Gentleman's Agreement,/wiki/Gentleman%27s_Agreement,True,8.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-156,1947,The Bishop's Wife,/wiki/The_Bishop%27s_Wife,False,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-157,1947,Crossfire ,/wiki/Crossfire_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-158,1947,Great Expectations ,/wiki/Great_Expectations_(1946_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-159,1947,Miracle on 34th Street,/wiki/Miracle_on_34th_Street,False,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-160,1948,Hamlet ,/wiki/Hamlet_(1948_film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-161,1948,Johnny Belinda ,/wiki/Johnny_Belinda_(1948_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-162,1948,The Red Shoes ,/wiki/The_Red_Shoes_(1948_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-163,1948,The Snake Pit,/wiki/The_Snake_Pit,False,6.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-164,1948,The Treasure of the Sierra Madre ,/wiki/The_Treasure_of_the_Sierra_Madre_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-165,1949,All the King's Men ,/wiki/All_the_King%27s_Men_(1949_film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-166,1949,Battleground ,/wiki/Battleground_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-167,1949,The Heiress,/wiki/The_Heiress,False,8.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-168,1949,A Letter to Three Wives,/wiki/A_Letter_to_Three_Wives,False,3.0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
-169,1949,Twelve O'Clock High,/wiki/Twelve_O%27Clock_High,False,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-170,1950,All About Eve,/wiki/All_About_Eve,True,14.0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0
-171,1950,Born Yesterday ,/wiki/Born_Yesterday_(1950_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-172,1950,Father of the Bride ,/wiki/Father_of_the_Bride_(1950_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-173,1950,King Solomon's Mines ,/wiki/King_Solomon%27s_Mines_(1950_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-174,1950,Sunset Boulevard ,/wiki/Sunset_Boulevard_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-175,1951,An American in Paris ,/wiki/An_American_in_Paris_(film),True,7.0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-176,1951,Decision Before Dawn,/wiki/Decision_Before_Dawn,False,7.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-177,1951,A Place in the Sun ,/wiki/A_Place_in_the_Sun_(1951_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-178,1951,Quo Vadis ,/wiki/Quo_Vadis_(1951_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-179,1951,A Streetcar Named Desire ,/wiki/A_Streetcar_Named_Desire_(1951_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-180,1952,The Greatest Show on Earth ,/wiki/The_Greatest_Show_on_Earth_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-181,1952,High Noon,/wiki/High_Noon,False,7.0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-182,1952,Ivanhoe ,/wiki/Ivanhoe_(1952_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-183,1952,Moulin Rouge ,/wiki/Moulin_Rouge_(1952_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-184,1952,The Quiet Man,/wiki/The_Quiet_Man,False,7.0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
-185,1953,From Here to Eternity,/wiki/From_Here_to_Eternity,True,13.0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0
-186,1953,Julius Caesar ,/wiki/Julius_Caesar_(1953_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-187,1953,The Robe ,/wiki/The_Robe_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-188,1953,Roman Holiday,/wiki/Roman_Holiday,False,10.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-189,1953,Shane ,/wiki/Shane_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-190,1954,On the Waterfront,/wiki/On_the_Waterfront,True,12.0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0
-191,1954,The Caine Mutiny ,/wiki/The_Caine_Mutiny_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-192,1954,The Country Girl ,/wiki/The_Country_Girl_(1954_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-193,1954,Seven Brides for Seven Brothers,/wiki/Seven_Brides_for_Seven_Brothers,False,5.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-194,1954,Three Coins in the Fountain ,/wiki/Three_Coins_in_the_Fountain_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-195,1955,Marty ,/wiki/Marty_(film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-196,1955,Love Is a Many-Splendored Thing ,/wiki/Love_Is_a_Many-Splendored_Thing_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-197,1955,Mister Roberts ,/wiki/Mister_Roberts_(1955_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-198,1955,Picnic ,/wiki/Picnic_(1955_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-199,1955,The Rose Tattoo ,/wiki/The_Rose_Tattoo_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-200,1956,Around the World in 80 Days ,/wiki/Around_the_World_in_80_Days_(1956_film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-201,1956,Friendly Persuasion ,/wiki/Friendly_Persuasion_(1956_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-202,1956,Giant ,/wiki/Giant_(1956_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-203,1956,The King and I ,/wiki/The_King_and_I_(1956_film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-204,1956,The Ten Commandments ,/wiki/The_Ten_Commandments_(1956_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-205,1957,The Bridge on the River Kwai,/wiki/The_Bridge_on_the_River_Kwai,True,8.0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0
-206,1957,12 Angry Men ,/wiki/12_Angry_Men_(1957_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-207,1957,Peyton Place ,/wiki/Peyton_Place_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-208,1957,Sayonara,/wiki/Sayonara,False,10.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-209,1957,Witness for the Prosecution ,/wiki/Witness_for_the_Prosecution_(1957_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-210,1958,Gigi ,/wiki/Gigi_(1958_film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-211,1958,Auntie Mame ,/wiki/Auntie_Mame_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-212,1958,Cat on a Hot Tin Roof ,/wiki/Cat_on_a_Hot_Tin_Roof_(1958_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-213,1958,The Defiant Ones,/wiki/The_Defiant_Ones,False,9.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-214,1958,Separate Tables ,/wiki/Separate_Tables_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-215,1959,Ben-Hur ,/wiki/Ben-Hur_(1959_film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-216,1959,Anatomy of a Murder,/wiki/Anatomy_of_a_Murder,False,7.0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-217,1959,The Diary of Anne Frank ,/wiki/The_Diary_of_Anne_Frank_(1959_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-218,1959,The Nun's Story ,/wiki/The_Nun%27s_Story_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-219,1959,Room at the Top ,/wiki/Room_at_the_Top_(1959_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-220,1960,The Apartment,/wiki/The_Apartment,True,10.0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0
-221,1960,The Alamo ,/wiki/The_Alamo_(1960_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-222,1960,Elmer Gantry ,/wiki/Elmer_Gantry_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-223,1960,Sons and Lovers ,/wiki/Sons_and_Lovers_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-224,1960,The Sundowners ,/wiki/The_Sundowners_(1960_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-225,1961,West Side Story ,/wiki/West_Side_Story_(1961_film),True,7.0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-226,1961,Fanny ,/wiki/Fanny_(1961_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-227,1961,The Guns of Navarone ,/wiki/The_Guns_of_Navarone_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-228,1961,The Hustler,/wiki/The_Hustler,False,9.0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
-229,1961,Judgment at Nuremberg,/wiki/Judgment_at_Nuremberg,False,11.0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0
-230,1962,Lawrence of Arabia ,/wiki/Lawrence_of_Arabia_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-231,1962,The Longest Day ,/wiki/The_Longest_Day_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-232,1962,The Music Man ,/wiki/The_Music_Man_(1962_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-233,1962,Mutiny on the Bounty ,/wiki/Mutiny_on_the_Bounty_(1962_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-234,1962,To Kill a Mockingbird ,/wiki/To_Kill_a_Mockingbird_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-235,1963,Tom Jones ,/wiki/Tom_Jones_(1963_film),True,7.0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-236,1963,America America,/wiki/America_America,False,4.0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-237,1963,Cleopatra ,/wiki/Cleopatra_(1963_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-238,1963,How the West Was Won ,/wiki/How_the_West_Was_Won_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-239,1963,Lilies of the Field ,/wiki/Lilies_of_the_Field_(1963_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-240,1964,My Fair Lady ,/wiki/My_Fair_Lady_(film),True,7.0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-241,1964,Becket ,/wiki/Becket_(1964_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-242,1964,Dr. Strangelove,/wiki/Dr._Strangelove,False,7.0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0
-243,1964,Mary Poppins ,/wiki/Mary_Poppins_(film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-244,1964,Zorba the Greek ,/wiki/Zorba_the_Greek_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-245,1965,The Sound of Music ,/wiki/The_Sound_of_Music_(film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-246,1965,Darling ,/wiki/Darling_(1965_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-247,1965,Doctor Zhivago ,/wiki/Doctor_Zhivago_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-248,1965,Ship of Fools ,/wiki/Ship_of_Fools_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-249,1965,A Thousand Clowns,/wiki/A_Thousand_Clowns,False,4.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-250,1966,A Man for All Seasons ,/wiki/A_Man_for_All_Seasons_(1966_film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-251,1966,Alfie ,/wiki/Alfie_(1966_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-252,1966,"The Russians Are Coming, the Russians Are Coming","/wiki/The_Russians_Are_Coming,_the_Russians_Are_Coming",False,7.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-253,1966,The Sand Pebbles ,/wiki/The_Sand_Pebbles_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-254,1966,Who's Afraid of Virginia Woolf? ,/wiki/Who%27s_Afraid_of_Virginia_Woolf%3F_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-255,1967,In the Heat of the Night ,/wiki/In_the_Heat_of_the_Night_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-256,1967,Bonnie and Clyde ,/wiki/Bonnie_and_Clyde_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-257,1967,Doctor Dolittle ,/wiki/Doctor_Dolittle_(1967_film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-258,1967,The Graduate,/wiki/The_Graduate,False,7.0,0,0,0,1,1,0,0,1,1,1,1,0,0,0,0
-259,1967,Guess Who's Coming to Dinner,/wiki/Guess_Who%27s_Coming_to_Dinner,False,10.0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-260,1968,Oliver! ,/wiki/Oliver!_(film),True,7.0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-261,1968,Funny Girl ,/wiki/Funny_Girl_(film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-262,1968,The Lion in Winter ,/wiki/The_Lion_in_Winter_(1968_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-263,1968,"Rachel, Rachel","/wiki/Rachel,_Rachel",False,7.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-264,1968,Romeo and Juliet ,/wiki/Romeo_and_Juliet_(1968_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-265,1969,Midnight Cowboy,/wiki/Midnight_Cowboy,True,7.0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0
-266,1969,Anne of the Thousand Days,/wiki/Anne_of_the_Thousand_Days,False,10.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-267,1969,Butch Cassidy and the Sundance Kid,/wiki/Butch_Cassidy_and_the_Sundance_Kid,False,7.0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0
-268,1969,"Hello, Dolly! ","/wiki/Hello,_Dolly!_(film)",False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-269,1969,Z ,/wiki/Z_(1969_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-270,1970,Patton ,/wiki/Patton_(film),True,7.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-271,1970,Airport ,/wiki/Airport_(1970_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-272,1970,Five Easy Pieces,/wiki/Five_Easy_Pieces,False,7.0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-273,1970,Love Story ,/wiki/Love_Story_(1970_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-274,1970,M*A*S*H ,/wiki/M*A*S*H_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-275,1971,The French Connection ,/wiki/The_French_Connection_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-276,1971,A Clockwork Orange ,/wiki/A_Clockwork_Orange_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-277,1971,Fiddler on the Roof ,/wiki/Fiddler_on_the_Roof_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-278,1971,The Last Picture Show,/wiki/The_Last_Picture_Show,False,8.0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0
-279,1971,Nicholas and Alexandra,/wiki/Nicholas_and_Alexandra,False,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-280,1972,The Godfather,/wiki/The_Godfather,True,10.0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0
-281,1972,Cabaret ,/wiki/Cabaret_(1972_film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-282,1972,Deliverance,/wiki/Deliverance,False,7.0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-283,1972,The Emigrants ,/wiki/The_Emigrants_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-284,1972,Sounder ,/wiki/Sounder_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-285,1973,The Sting,/wiki/The_Sting,True,10.0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0
-286,1973,American Graffiti,/wiki/American_Graffiti,False,7.0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
-287,1973,Cries and Whispers,/wiki/Cries_and_Whispers,False,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-288,1973,The Exorcist,/wiki/The_Exorcist,False,10.0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
-289,1973,A Touch of Class ,/wiki/A_Touch_of_Class_(film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-290,1974,The Godfather Part II,/wiki/The_Godfather_Part_II,True,7.0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0
-291,1974,Chinatown ,/wiki/Chinatown_(1974_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-292,1974,The Conversation,/wiki/The_Conversation,False,7.0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
-293,1974,Lenny ,/wiki/Lenny_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-294,1974,The Towering Inferno,/wiki/The_Towering_Inferno,False,8.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-295,1975,One Flew Over the Cuckoo's Nest ,/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-296,1975,Barry Lyndon,/wiki/Barry_Lyndon,False,7.0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0
-297,1975,Dog Day Afternoon,/wiki/Dog_Day_Afternoon,False,6.0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0
-298,1975,Jaws ,/wiki/Jaws_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-299,1975,Nashville ,/wiki/Nashville_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-300,1976,Rocky,/wiki/Rocky,True,10.0,1,1,1,0,0,0,0,1,0,1,1,0,0,0,0
-301,1976,All the President's Men ,/wiki/All_the_President%27s_Men_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-302,1976,Bound for Glory ,/wiki/Bound_for_Glory_(1976_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-303,1976,Network ,/wiki/Network_(1976_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-304,1976,Taxi Driver,/wiki/Taxi_Driver,False,7.0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1
-305,1977,Annie Hall,/wiki/Annie_Hall,True,5.0,1,0,0,1,0,0,0,1,1,1,1,0,0,0,0
-306,1977,The Goodbye Girl,/wiki/The_Goodbye_Girl,False,5.0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-307,1977,Julia ,/wiki/Julia_(1977_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-308,1977,Star Wars ,/wiki/Star_Wars_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-309,1977,The Turning Point ,/wiki/The_Turning_Point_(1977_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-310,1978,The Deer Hunter,/wiki/The_Deer_Hunter,True,9.0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0
-311,1978,Coming Home ,/wiki/Coming_Home_(1978_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-312,1978,Heaven Can Wait ,/wiki/Heaven_Can_Wait_(1978_film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-313,1978,Midnight Express ,/wiki/Midnight_Express_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-314,1978,An Unmarried Woman,/wiki/An_Unmarried_Woman,False,7.0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-315,1979,Kramer vs. Kramer,/wiki/Kramer_vs._Kramer,True,9.0,1,1,1,0,0,0,0,1,0,1,1,0,0,0,0
-316,1979,All That Jazz ,/wiki/All_That_Jazz_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-317,1979,Apocalypse Now,/wiki/Apocalypse_Now,False,8.0,0,1,0,0,0,0,0,1,0,1,0,0,0,1,1
-318,1979,Breaking Away,/wiki/Breaking_Away,False,5.0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
-319,1979,Norma Rae,/wiki/Norma_Rae,False,4.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-320,1980,Ordinary People,/wiki/Ordinary_People,True,6.0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0
-321,1980,Coal Miner's Daughter ,/wiki/Coal_Miner%27s_Daughter_(film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-322,1980,The Elephant Man ,/wiki/The_Elephant_Man_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-323,1980,Raging Bull,/wiki/Raging_Bull,False,8.0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-324,1980,Tess ,/wiki/Tess_(1979_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-325,1981,Chariots of Fire,/wiki/Chariots_of_Fire,True,7.0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0
-326,1981,Atlantic City ,/wiki/Atlantic_City_(1980_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-327,1981,On Golden Pond ,/wiki/On_Golden_Pond_(1981_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-328,1981,Raiders of the Lost Ark,/wiki/Raiders_of_the_Lost_Ark,False,8.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
-329,1981,Reds ,/wiki/Reds_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-330,1982,Gandhi ,/wiki/Gandhi_(film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-331,1982,E.T. the Extra-Terrestrial,/wiki/E.T._the_Extra-Terrestrial,False,7.0,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0
-332,1982,Missing ,/wiki/Missing_(1982_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-333,1982,Tootsie,/wiki/Tootsie,False,10.0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0
-334,1982,The Verdict,/wiki/The_Verdict,False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-335,1983,Terms of Endearment,/wiki/Terms_of_Endearment,True,11.0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0
-336,1983,The Big Chill ,/wiki/The_Big_Chill_(film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-337,1983,The Dresser ,/wiki/The_Dresser_(1983_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-338,1983,The Right Stuff ,/wiki/The_Right_Stuff_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-339,1983,Tender Mercies,/wiki/Tender_Mercies,False,5.0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-340,1984,Amadeus ,/wiki/Amadeus_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-341,1984,The Killing Fields ,/wiki/The_Killing_Fields_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-342,1984,A Passage to India ,/wiki/A_Passage_to_India_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-343,1984,Places in the Heart,/wiki/Places_in_the_Heart,False,7.0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-344,1984,A Soldier's Story,/wiki/A_Soldier%27s_Story,False,7.0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-345,1985,Out of Africa ,/wiki/Out_of_Africa_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-346,1985,The Color Purple ,/wiki/The_Color_Purple_(1985_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-347,1985,Kiss of the Spider Woman ,/wiki/Kiss_of_the_Spider_Woman_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-348,1985,Prizzi's Honor,/wiki/Prizzi%27s_Honor,False,8.0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
-349,1985,Witness ,/wiki/Witness_(1985_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-350,1986,Platoon ,/wiki/Platoon_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-351,1986,Children of a Lesser God ,/wiki/Children_of_a_Lesser_God_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-352,1986,Hannah and Her Sisters,/wiki/Hannah_and_Her_Sisters,False,7.0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0
-353,1986,The Mission ,/wiki/The_Mission_(1986_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-354,1986,A Room with a View ,/wiki/A_Room_with_a_View_(1985_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-355,1987,The Last Emperor,/wiki/The_Last_Emperor,True,9.0,1,1,1,0,0,0,0,1,1,1,1,0,0,0,0
-356,1987,Broadcast News ,/wiki/Broadcast_News_(film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-357,1987,Fatal Attraction,/wiki/Fatal_Attraction,False,7.0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-358,1987,Hope and Glory ,/wiki/Hope_and_Glory_(film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-359,1987,Moonstruck,/wiki/Moonstruck,False,6.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-360,1988,Rain Man,/wiki/Rain_Man,True,8.0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0
-361,1988,The Accidental Tourist ,/wiki/The_Accidental_Tourist_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-362,1988,Dangerous Liaisons,/wiki/Dangerous_Liaisons,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-363,1988,Mississippi Burning,/wiki/Mississippi_Burning,False,7.0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-364,1988,Working Girl,/wiki/Working_Girl,False,6.0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
-365,1989,Driving Miss Daisy,/wiki/Driving_Miss_Daisy,True,9.0,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0
-366,1989,Born on the Fourth of July ,/wiki/Born_on_the_Fourth_of_July_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-367,1989,Dead Poets Society,/wiki/Dead_Poets_Society,False,4.0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0
-368,1989,Field of Dreams,/wiki/Field_of_Dreams,False,7.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-369,1989,My Left Foot,/wiki/My_Left_Foot,False,5.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-370,1990,Dances with Wolves,/wiki/Dances_with_Wolves,True,12.0,1,1,1,0,0,1,1,1,0,1,1,0,0,0,0
-371,1990,Awakenings,/wiki/Awakenings,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-372,1990,Ghost ,/wiki/Ghost_(1990_film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-373,1990,The Godfather Part III,/wiki/The_Godfather_Part_III,False,7.0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-374,1990,Goodfellas,/wiki/Goodfellas,False,6.0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0
-375,1991,The Silence of the Lambs ,/wiki/The_Silence_of_the_Lambs_(film),True,7.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-376,1991,Beauty and the Beast ,/wiki/Beauty_and_the_Beast_(1991_film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-377,1991,Bugsy,/wiki/Bugsy,False,10.0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
-378,1991,JFK ,/wiki/JFK_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-379,1991,The Prince of Tides,/wiki/The_Prince_of_Tides,False,7.0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0
-380,1992,Unforgiven,/wiki/Unforgiven,True,9.0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,0
-381,1992,The Crying Game,/wiki/The_Crying_Game,False,6.0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0
-382,1992,A Few Good Men,/wiki/A_Few_Good_Men,False,7.0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0
-383,1992,Howards End ,/wiki/Howards_End_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-384,1992,Scent of a Woman ,/wiki/Scent_of_a_Woman_(1992_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-385,1993,Schindler's List,/wiki/Schindler%27s_List,True,12.0,1,1,1,0,0,1,1,1,1,1,1,0,0,0,0
-386,1993,The Fugitive ,/wiki/The_Fugitive_(1993_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-387,1993,In the Name of the Father ,/wiki/In_the_Name_of_the_Father_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-388,1993,The Piano,/wiki/The_Piano,False,8.0,0,1,0,0,0,1,0,1,0,1,0,0,0,1,1
-389,1993,The Remains of the Day ,/wiki/The_Remains_of_the_Day_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-390,1994,Forrest Gump,/wiki/Forrest_Gump,True,13.0,1,1,1,0,0,1,1,1,0,1,1,0,0,0,0
-391,1994,Four Weddings and a Funeral,/wiki/Four_Weddings_and_a_Funeral,False,7.0,0,0,0,1,0,1,0,1,1,1,0,0,0,0,0
-392,1994,Pulp Fiction,/wiki/Pulp_Fiction,False,7.0,0,1,0,0,0,1,0,1,0,1,0,0,0,1,1
-393,1994,Quiz Show ,/wiki/Quiz_Show_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-394,1994,The Shawshank Redemption,/wiki/The_Shawshank_Redemption,False,7.0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
-395,1995,Braveheart,/wiki/Braveheart,True,10.0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-396,1995,Apollo 13 ,/wiki/Apollo_13_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-397,1995,Babe ,/wiki/Babe_(film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-398,1995,Il Postino: The Postman,/wiki/Il_Postino:_The_Postman,False,5.0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
-399,1995,Sense and Sensibility ,/wiki/Sense_and_Sensibility_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-400,1996,The English Patient ,/wiki/The_English_Patient_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-401,1996,Fargo ,/wiki/Fargo_(1996_film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-402,1996,Jerry Maguire,/wiki/Jerry_Maguire,False,5.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
-403,1996,Secrets & Lies ,/wiki/Secrets_%26_Lies_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-404,1996,Shine ,/wiki/Shine_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-405,1997,Titanic ,/wiki/Titanic_(1997_film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-406,1997,As Good as It Gets,/wiki/As_Good_as_It_Gets,False,7.0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0
-407,1997,The Full Monty,/wiki/The_Full_Monty,False,4.0,0,0,0,1,0,0,0,1,1,0,0,1,1,0,0
-408,1997,Good Will Hunting,/wiki/Good_Will_Hunting,False,9.0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0
-409,1997,L.A. Confidential ,/wiki/L.A._Confidential_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-410,1998,Shakespeare in Love,/wiki/Shakespeare_in_Love,True,13.0,1,0,0,1,1,1,0,1,1,1,0,1,1,0,0
-411,1998,Elizabeth ,/wiki/Elizabeth_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-412,1998,Life Is Beautiful,/wiki/Life_Is_Beautiful,False,7.0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0
-413,1998,Saving Private Ryan,/wiki/Saving_Private_Ryan,False,11.0,0,1,1,0,0,1,1,1,0,1,1,1,0,0,0
-414,1998,The Thin Red Line ,/wiki/The_Thin_Red_Line_(1998_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-415,1999,American Beauty ,/wiki/American_Beauty_(1999_film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-416,1999,The Cider House Rules ,/wiki/The_Cider_House_Rules_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-417,1999,The Green Mile ,/wiki/The_Green_Mile_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-418,1999,The Insider ,/wiki/The_Insider_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-419,1999,The Sixth Sense,/wiki/The_Sixth_Sense,False,7.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
-420,2000,Gladiator ,/wiki/Gladiator_(2000_film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-421,2000,Chocolat ,/wiki/Chocolat_(2000_film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-422,2000,"Crouching Tiger, Hidden Dragon","/wiki/Crouching_Tiger,_Hidden_Dragon",False,10.0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0
-423,2000,Erin Brockovich ,/wiki/Erin_Brockovich_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-424,2000,Traffic ,/wiki/Traffic_(2000_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-425,2001,A Beautiful Mind ,/wiki/A_Beautiful_Mind_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-426,2001,Gosford Park,/wiki/Gosford_Park,False,7.0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0
-427,2001,In the Bedroom,/wiki/In_the_Bedroom,False,7.0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
-428,2001,The Lord of the Rings: The Fellowship of the Ring,/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring,False,13.0,0,1,0,0,0,1,0,1,1,1,0,1,0,0,0
-429,2001,Moulin Rouge!,/wiki/Moulin_Rouge!,False,8.0,0,0,0,1,1,1,1,1,0,1,0,1,0,0,0
-430,2002,Chicago ,/wiki/Chicago_(2002_film),True,7.0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-431,2002,Gangs of New York,/wiki/Gangs_of_New_York,False,7.0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0
-432,2002,The Hours ,/wiki/The_Hours_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-433,2002,The Lord of the Rings: The Two Towers,/wiki/The_Lord_of_the_Rings:_The_Two_Towers,False,6.0,0,1,0,0,0,1,0,1,0,1,0,1,0,0,0
-434,2002,The Pianist ,/wiki/The_Pianist_(2002_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-435,2003,The Lord of the Rings: The Return of the King,/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King,True,11.0,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0
-436,2003,Lost in Translation ,/wiki/Lost_in_Translation_(film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-437,2003,Master and Commander: The Far Side of the World,/wiki/Master_and_Commander:_The_Far_Side_of_the_World,False,10.0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0
-438,2003,Mystic River ,/wiki/Mystic_River_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-439,2003,Seabiscuit ,/wiki/Seabiscuit_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-440,2004,Million Dollar Baby,/wiki/Million_Dollar_Baby,True,7.0,1,1,0,0,0,1,0,0,0,1,1,1,0,0,0
-441,2004,The Aviator ,/wiki/The_Aviator_(2004_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-442,2004,Finding Neverland ,/wiki/Finding_Neverland_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-443,2004,Ray ,/wiki/Ray_(film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-444,2004,Sideways,/wiki/Sideways,False,5.0,0,0,0,1,1,1,0,0,0,1,0,1,1,0,0
-445,2005,Crash ,/wiki/Crash_(2004_film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-446,2005,Brokeback Mountain,/wiki/Brokeback_Mountain,False,8.0,0,1,1,0,0,1,1,1,1,1,1,1,0,0,0
-447,2005,Capote ,/wiki/Capote_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-448,2005,"Good Night, and Good Luck","/wiki/Good_Night,_and_Good_Luck",False,7.0,0,1,0,0,0,1,0,1,0,1,0,1,0,0,0
-449,2005,Munich ,/wiki/Munich_(2005_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-450,2006,The Departed,/wiki/The_Departed,True,5.0,1,1,0,0,0,1,0,1,0,1,1,1,0,0,0
-451,2006,Babel ,/wiki/Babel_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-452,2006,Letters from Iwo Jima,/wiki/Letters_from_Iwo_Jima,False,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-453,2006,Little Miss Sunshine,/wiki/Little_Miss_Sunshine,False,4.0,0,0,0,1,0,1,1,1,0,1,0,1,1,0,0
-454,2006,The Queen ,/wiki/The_Queen_(2006_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-455,2007,No Country for Old Men,/wiki/No_Country_for_Old_Men,True,8.0,1,1,0,0,0,1,1,1,0,1,1,1,1,0,0
-456,2007,Atonement ,/wiki/Atonement_(2007_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-457,2007,Juno ,/wiki/Juno_(film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-458,2007,Michael Clayton ,/wiki/Michael_Clayton_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-459,2007,There Will Be Blood,/wiki/There_Will_Be_Blood,False,8.0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0
-460,2008,Slumdog Millionaire,/wiki/Slumdog_Millionaire,True,10.0,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0
-461,2008,The Curious Case of Benjamin Button ,/wiki/The_Curious_Case_of_Benjamin_Button_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-462,2008,Frost/Nixon ,/wiki/Frost/Nixon_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-463,2008,Milk ,/wiki/Milk_(2008_American_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-464,2008,The Reader ,/wiki/The_Reader_(2008_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-465,2009,The Hurt Locker,/wiki/The_Hurt_Locker,True,9.0,1,1,0,0,0,1,1,1,1,1,1,1,0,0,0
-466,2009,Avatar ,/wiki/Avatar_(2009_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-467,2009,The Blind Side ,/wiki/The_Blind_Side_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-468,2009,District 9,/wiki/District_9,False,7.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-469,2009,An Education,/wiki/An_Education,False,7.0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0
-470,2009,Inglourious Basterds,/wiki/Inglourious_Basterds,False,8.0,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0
-471,2009,Precious ,/wiki/Precious_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-472,2009,A Serious Man,/wiki/A_Serious_Man,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-473,2009,Up ,/wiki/Up_(2009_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-474,2009,Up in the Air ,/wiki/Up_in_the_Air_(2009_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-475,2010,The King's Speech,/wiki/The_King%27s_Speech,True,12.0,1,1,0,0,0,1,1,1,1,1,1,1,1,0,0
-476,2010,Black Swan ,/wiki/Black_Swan_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-477,2010,The Fighter,/wiki/The_Fighter,False,7.0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0
-478,2010,Inception,/wiki/Inception,False,8.0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0
-479,2010,The Kids Are All Right ,/wiki/The_Kids_Are_All_Right_(film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-480,2010,127 Hours,/wiki/127_Hours,False,7.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-481,2010,The Social Network,/wiki/The_Social_Network,False,8.0,0,1,1,0,0,1,0,1,0,1,0,1,0,0,0
-482,2010,Toy Story 3,/wiki/Toy_Story_3,False,5.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-483,2010,True Grit ,/wiki/True_Grit_(2010_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-484,2010,Winter's Bone,/wiki/Winter%27s_Bone,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-485,2011,The Artist ,/wiki/The_Artist_(film),True,7.0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-486,2011,The Descendants,/wiki/The_Descendants,False,5.0,0,1,1,0,0,1,0,1,0,1,0,1,0,0,0
-487,2011,Extremely Loud & Incredibly Close ,/wiki/Extremely_Loud_%26_Incredibly_Close_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-488,2011,The Help ,/wiki/The_Help_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-489,2011,Hugo ,/wiki/Hugo_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-490,2011,Midnight in Paris,/wiki/Midnight_in_Paris,False,4.0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0
-491,2011,Moneyball ,/wiki/Moneyball_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-492,2011,The Tree of Life ,/wiki/The_Tree_of_Life_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-493,2011,War Horse ,/wiki/War_Horse_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-494,2012,Argo ,/wiki/Argo_(2012_film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-495,2012,Amour ,/wiki/Amour_(2012_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-496,2012,Beasts of the Southern Wild,/wiki/Beasts_of_the_Southern_Wild,False,7.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-497,2012,Django Unchained,/wiki/Django_Unchained,False,5.0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
-498,2012,Life of Pi ,/wiki/Life_of_Pi_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-499,2012,Lincoln ,/wiki/Lincoln_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-500,2012,Les Misérables ,/wiki/Les_Mis%C3%A9rables_(2012_film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-501,2012,Silver Linings Playbook,/wiki/Silver_Linings_Playbook,False,8.0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0
-502,2012,Zero Dark Thirty,/wiki/Zero_Dark_Thirty,False,5.0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0
-503,2013,12 Years a Slave ,/wiki/12_Years_a_Slave_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-504,2013,American Hustle,/wiki/American_Hustle,False,7.0,0,0,0,1,1,1,0,1,0,1,0,1,1,0,0
-505,2013,Captain Phillips ,/wiki/Captain_Phillips_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-506,2013,Dallas Buyers Club,/wiki/Dallas_Buyers_Club,False,6.0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
-507,2013,Gravity ,/wiki/Gravity_(2013_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-508,2013,Her ,/wiki/Her_(film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-509,2013,Nebraska ,/wiki/Nebraska_(film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-510,2013,Philomena ,/wiki/Philomena_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-511,2013,The Wolf of Wall Street ,/wiki/The_Wolf_of_Wall_Street_(2013_film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-512,2014,Birdman ,/wiki/Birdman_(film),True,7.0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-513,2014,American Sniper,/wiki/American_Sniper,False,6.0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
-514,2014,Boyhood ,/wiki/Boyhood_(2014_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-515,2014,The Grand Budapest Hotel,/wiki/The_Grand_Budapest_Hotel,False,9.0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0
-516,2014,The Imitation Game,/wiki/The_Imitation_Game,False,8.0,0,1,0,0,0,1,0,1,0,1,0,1,0,0,0
-517,2014,Selma ,/wiki/Selma_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-518,2014,The Theory of Everything ,/wiki/The_Theory_of_Everything_(2014_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-519,2014,Whiplash ,/wiki/Whiplash_(2014_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-520,2015,Spotlight ,/wiki/Spotlight_(film),True,7.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-521,2015,The Big Short ,/wiki/The_Big_Short_(film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-522,2015,Bridge of Spies ,/wiki/Bridge_of_Spies_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-523,2015,Brooklyn ,/wiki/Brooklyn_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-524,2015,Mad Max: Fury Road,/wiki/Mad_Max:_Fury_Road,False,10.0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0
-525,2015,The Martian ,/wiki/The_Martian_(film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-526,2015,The Revenant ,/wiki/The_Revenant_(2015_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-527,2015,Room ,/wiki/Room_(2015_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-528,2016,Moonlight ,/wiki/Moonlight_(2016_film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-529,2016,Arrival ,/wiki/Arrival_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-530,2016,Fences ,/wiki/Fences_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-531,2016,Hacksaw Ridge,/wiki/Hacksaw_Ridge,False,6.0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
-532,2016,Hell or High Water ,/wiki/Hell_or_High_Water_(2016_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-533,2016,Hidden Figures,/wiki/Hidden_Figures,False,7.0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0
-534,2016,La La Land,/wiki/La_La_Land,False,14.0,0,0,0,1,1,0,0,1,1,1,1,0,0,0,0
-535,2016,Lion ,/wiki/Lion_(2016_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-536,2016,Manchester by the Sea ,/wiki/Manchester_by_the_Sea_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-537,2017,The Shape of Water,/wiki/The_Shape_of_Water,True,13.0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,0
-538,2017,Call Me by Your Name ,/wiki/Call_Me_by_Your_Name_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-539,2017,Darkest Hour ,/wiki/Darkest_Hour_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-540,2017,Dunkirk ,/wiki/Dunkirk_(2017_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-541,2017,Get Out,/wiki/Get_Out,False,4.0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0
-542,2017,Lady Bird ,/wiki/Lady_Bird_(film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-543,2017,Phantom Thread,/wiki/Phantom_Thread,False,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-544,2017,The Post ,/wiki/The_Post_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-545,2017,"Three Billboards Outside Ebbing, Missouri","/wiki/Three_Billboards_Outside_Ebbing,_Missouri",False,7.0,0,1,1,0,0,1,0,1,1,1,0,1,1,0,0
-546,2018,Green Book ,/wiki/Green_Book_(film),True,7.0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-547,2018,Black Panther ,/wiki/Black_Panther_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-548,2018,BlacKkKlansman,/wiki/BlacKkKlansman,False,6.0,0,1,0,0,0,1,0,1,0,1,0,1,0,0,0
-549,2018,Bohemian Rhapsody ,/wiki/Bohemian_Rhapsody_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-550,2018,The Favourite,/wiki/The_Favourite,False,10.0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0
-551,2018,Roma ,/wiki/Roma_(2018_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-552,2018,A Star Is Born ,/wiki/A_Star_Is_Born_(2018_film),False,7.0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
-553,2018,Vice ,/wiki/Vice_(2018_film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-554,2019,Parasite ,/wiki/Parasite_(2019_film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-555,2019,Ford v Ferrari,/wiki/Ford_v_Ferrari,False,4.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-556,2019,The Irishman,/wiki/The_Irishman,False,7.0,0,1,0,0,0,1,0,1,0,1,0,1,0,0,0
-557,2019,Jojo Rabbit,/wiki/Jojo_Rabbit,False,6.0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0
-558,2019,Joker ,/wiki/Joker_(2019_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-559,2019,Little Women ,/wiki/Little_Women_(2019_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-560,2019,Marriage Story,/wiki/Marriage_Story,False,6.0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
-561,2019,1917 ,/wiki/1917_(2019_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-562,2019,Once Upon a Time in Hollywood,/wiki/Once_Upon_a_Time_in_Hollywood,False,10.0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0
-563,2020,Nomadland ,/wiki/Nomadland_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-564,2020,The Father ,/wiki/The_Father_(2020_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-565,2020,Judas and the Black Messiah,/wiki/Judas_and_the_Black_Messiah,False,6.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-566,2020,Mank,/wiki/Mank,False,10.0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0
-567,2020,Minari ,/wiki/Minari_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-568,2020,Promising Young Woman,/wiki/Promising_Young_Woman,False,5.0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0
-569,2020,Sound of Metal,/wiki/Sound_of_Metal,False,6.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-570,2020,The Trial of the Chicago 7,/wiki/The_Trial_of_the_Chicago_7,False,7.0,0,1,0,0,0,1,0,1,0,1,0,1,1,0,0
-571,2021,CODA ,/wiki/CODA_(2021_film),True,7.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-572,2021,Belfast ,/wiki/Belfast_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-573,2021,Don't Look Up,/wiki/Don%27t_Look_Up,False,7.0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0
-574,2021,Drive My Car ,/wiki/Drive_My_Car_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-575,2021,Dune ,/wiki/Dune_(2021_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-576,2021,King Richard ,/wiki/King_Richard_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-577,2021,Licorice Pizza,/wiki/Licorice_Pizza,False,7.0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0
-578,2021,Nightmare Alley ,/wiki/Nightmare_Alley_(2021_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-579,2021,The Power of the Dog ,/wiki/The_Power_of_the_Dog_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-580,2021,West Side Story ,/wiki/West_Side_Story_(2021_film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-581,2022,Everything Everywhere All at Once,/wiki/Everything_Everywhere_All_at_Once,True,11.0,1,0,0,1,0,1,1,1,0,1,1,1,1,0,0
-582,2022,All Quiet on the Western Front ,/wiki/All_Quiet_on_the_Western_Front_(2022_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-583,2022,Avatar: The Way of Water,/wiki/Avatar:_The_Way_of_Water,False,4.0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
-584,2022,The Banshees of Inisherin,/wiki/The_Banshees_of_Inisherin,False,7.0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0
-585,2022,Elvis ,/wiki/Elvis_(2022_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-586,2022,The Fabelmans,/wiki/The_Fabelmans,False,7.0,0,1,1,0,0,1,0,0,0,1,0,1,0,0,0
-587,2022,Tár,/wiki/T%C3%A1r,False,7.0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0
-588,2022,Top Gun: Maverick,/wiki/Top_Gun:_Maverick,False,6.0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0
-589,2022,Triangle of Sadness,/wiki/Triangle_of_Sadness,False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
-590,2022,Women Talking ,/wiki/Women_Talking_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,year,film,wiki,winner,nominations,Oscar_win,nom_gg_drama,winner_gg_drama,nom_gg_comedy,winner_gg_comedy,nom_pga,winner_pga,nom_bafta,winner_bafta,nom_dga,winner_dga,nom_sag,winner_sag
+0,1927,Wings ,/wiki/Wings_(1927_film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1,1927,7th Heaven ,/wiki/7th_Heaven_(1927_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,1927,The Racket ,/wiki/The_Racket_(1928_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,1928,The Broadway Melody,/wiki/The_Broadway_Melody,True,3.0,1,0,0,0,0,0,0,0,0,0,0,0,0
+4,1928,Alibi ,/wiki/Alibi_(1929_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1928,Hollywood Revue,/wiki/Hollywood_Revue,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1928,In Old Arizona,/wiki/In_Old_Arizona,False,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,1928,The Patriot ,/wiki/The_Patriot_(1928_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1929,All Quiet on the Western Front ,/wiki/All_Quiet_on_the_Western_Front_(1930_film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0
+9,1929,The Big House ,/wiki/The_Big_House_(1930_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,1929,Disraeli ,/wiki/Disraeli_(1929_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1929,The Divorcee,/wiki/The_Divorcee,False,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1929,The Love Parade,/wiki/The_Love_Parade,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1930,Cimarron ,/wiki/Cimarron_(1931_film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0
+14,1930,East Lynne ,/wiki/East_Lynne_(1931_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,1930,The Front Page ,/wiki/The_Front_Page_(1931_film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,1930,Skippy ,/wiki/Skippy_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,1930,Trader Horn ,/wiki/Trader_Horn_(1931_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,1931,Grand Hotel ,/wiki/Grand_Hotel_(1932_film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0
+19,1931,Arrowsmith ,/wiki/Arrowsmith_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,1931,Bad Girl ,/wiki/Bad_Girl_(1931_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,1931,The Champ ,/wiki/The_Champ_(1931_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,1931,Five Star Final,/wiki/Five_Star_Final,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,1931,One Hour with You,/wiki/One_Hour_with_You,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,1931,Shanghai Express ,/wiki/Shanghai_Express_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,1931,The Smiling Lieutenant,/wiki/The_Smiling_Lieutenant,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,1932,Cavalcade ,/wiki/Cavalcade_(1933_film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0
+27,1932,42nd Street ,/wiki/42nd_Street_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,1932,A Farewell to Arms ,/wiki/A_Farewell_to_Arms_(1932_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,1932,I Am a Fugitive from a Chain Gang,/wiki/I_Am_a_Fugitive_from_a_Chain_Gang,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,1932,Lady for a Day,/wiki/Lady_for_a_Day,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,1932,Little Women ,/wiki/Little_Women_(1933_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,1932,The Private Life of Henry VIII,/wiki/The_Private_Life_of_Henry_VIII,False,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,1932,She Done Him Wrong,/wiki/She_Done_Him_Wrong,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,1932,Smilin' Through ,/wiki/Smilin%27_Through_(1932_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,1932,State Fair ,/wiki/State_Fair_(1933_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,1934,It Happened One Night,/wiki/It_Happened_One_Night,True,5.0,1,0,0,0,0,0,0,0,0,0,0,0,0
+37,1934,The Barretts of Wimpole Street ,/wiki/The_Barretts_of_Wimpole_Street_(1934_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,1934,Cleopatra ,/wiki/Cleopatra_(1934_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+39,1934,Flirtation Walk,/wiki/Flirtation_Walk,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,1934,The Gay Divorcee,/wiki/The_Gay_Divorcee,False,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,1934,Here Comes the Navy,/wiki/Here_Comes_the_Navy,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,1934,The House of Rothschild,/wiki/The_House_of_Rothschild,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,1934,Imitation of Life ,/wiki/Imitation_of_Life_(1934_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,1934,One Night of Love,/wiki/One_Night_of_Love,False,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,1934,The Thin Man ,/wiki/The_Thin_Man_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,1934,Viva Villa!,/wiki/Viva_Villa!,False,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,1934,The White Parade,/wiki/The_White_Parade,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,1935,Mutiny on the Bounty ,/wiki/Mutiny_on_the_Bounty_(1935_film),True,7.0,1,1,0,0,0,0,0,0,0,0,0,0,0
+49,1935,Alice Adams ,/wiki/Alice_Adams_(1935_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,1935,Broadway Melody of 1936,/wiki/Broadway_Melody_of_1936,False,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,1935,Captain Blood ,/wiki/Captain_Blood_(1935_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,1935,David Copperfield ,/wiki/David_Copperfield_(1935_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+53,1935,The Informer ,/wiki/The_Informer_(1935_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,1935,The Lives of a Bengal Lancer ,/wiki/The_Lives_of_a_Bengal_Lancer_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,1935,A Midsummer Night's Dream ,/wiki/A_Midsummer_Night%27s_Dream_(1935_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,1935,Les Misérables ,/wiki/Les_Mis%C3%A9rables_(1935_film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0
+57,1935,Naughty Marietta ,/wiki/Naughty_Marietta_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,1935,Ruggles of Red Gap,/wiki/Ruggles_of_Red_Gap,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,1935,Top Hat,/wiki/Top_Hat,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,1936,The Great Ziegfeld,/wiki/The_Great_Ziegfeld,True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0
+61,1936,Anthony Adverse,/wiki/Anthony_Adverse,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,1936,Dodsworth ,/wiki/Dodsworth_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,1936,Libeled Lady,/wiki/Libeled_Lady,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,1936,Mr. Deeds Goes to Town,/wiki/Mr._Deeds_Goes_to_Town,False,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+65,1936,Romeo and Juliet ,/wiki/Romeo_and_Juliet_(1936_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+66,1936,San Francisco ,/wiki/San_Francisco_(1936_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+67,1936,The Story of Louis Pasteur,/wiki/The_Story_of_Louis_Pasteur,False,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+68,1936,A Tale of Two Cities ,/wiki/A_Tale_of_Two_Cities_(1935_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,1936,Three Smart Girls,/wiki/Three_Smart_Girls,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+70,1937,The Life of Emile Zola,/wiki/The_Life_of_Emile_Zola,True,10.0,1,0,0,0,0,0,0,0,0,0,0,0,0
+71,1937,The Awful Truth,/wiki/The_Awful_Truth,False,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+72,1937,Captains Courageous ,/wiki/Captains_Courageous_(1937_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+73,1937,Dead End ,/wiki/Dead_End_(1937_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+74,1937,The Good Earth ,/wiki/The_Good_Earth_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+75,1937,In Old Chicago,/wiki/In_Old_Chicago,False,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+76,1937,Lost Horizon ,/wiki/Lost_Horizon_(1937_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+77,1937,One Hundred Men and a Girl,/wiki/One_Hundred_Men_and_a_Girl,False,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+78,1937,Stage Door,/wiki/Stage_Door,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+79,1937,A Star Is Born ,/wiki/A_Star_Is_Born_(1937_film),False,7.0,0,1,0,1,1,0,0,0,0,0,0,0,0
+80,1938,You Can't Take It with You ,/wiki/You_Can%27t_Take_It_with_You_(film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0
+81,1938,The Adventures of Robin Hood,/wiki/The_Adventures_of_Robin_Hood,False,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+82,1938,Alexander's Ragtime Band ,/wiki/Alexander%27s_Ragtime_Band_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+83,1938,Boys Town ,/wiki/Boys_Town_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+84,1938,The Citadel ,/wiki/The_Citadel_(1938_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+85,1938,Four Daughters,/wiki/Four_Daughters,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+86,1938,La Grande Illusion,/wiki/La_Grande_Illusion,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+87,1938,Jezebel ,/wiki/Jezebel_(1938_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+88,1938,Pygmalion ,/wiki/Pygmalion_(1938_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+89,1938,Test Pilot ,/wiki/Test_Pilot_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+90,1939,Gone with the Wind ,/wiki/Gone_with_the_Wind_(film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0
+91,1939,Dark Victory,/wiki/Dark_Victory,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+92,1939,"Goodbye, Mr. Chips ","/wiki/Goodbye,_Mr._Chips_(1939_film)",False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+93,1939,Love Affair ,/wiki/Love_Affair_(1939_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+94,1939,Mr. Smith Goes to Washington,/wiki/Mr._Smith_Goes_to_Washington,False,11.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+95,1939,Ninotchka,/wiki/Ninotchka,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+96,1939,Of Mice and Men ,/wiki/Of_Mice_and_Men_(1939_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+97,1939,Stagecoach ,/wiki/Stagecoach_(1939_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+98,1939,The Wizard of Oz ,/wiki/The_Wizard_of_Oz_(1939_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+99,1939,Wuthering Heights ,/wiki/Wuthering_Heights_(1939_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+100,1940,Rebecca ,/wiki/Rebecca_(1940_film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0
+101,1940,"All This, and Heaven Too","/wiki/All_This,_and_Heaven_Too",False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+102,1940,Foreign Correspondent ,/wiki/Foreign_Correspondent_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+103,1940,The Grapes of Wrath ,/wiki/The_Grapes_of_Wrath_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104,1940,The Great Dictator,/wiki/The_Great_Dictator,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+105,1940,Kitty Foyle ,/wiki/Kitty_Foyle_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+106,1940,The Letter ,/wiki/The_Letter_(1940_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+107,1940,The Long Voyage Home,/wiki/The_Long_Voyage_Home,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+108,1940,Our Town ,/wiki/Our_Town_(1940_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+109,1940,The Philadelphia Story ,/wiki/The_Philadelphia_Story_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+110,1941,How Green Was My Valley ,/wiki/How_Green_Was_My_Valley_(film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0
+111,1941,Blossoms in the Dust,/wiki/Blossoms_in_the_Dust,False,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+112,1941,Citizen Kane,/wiki/Citizen_Kane,False,9.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+113,1941,Here Comes Mr. Jordan,/wiki/Here_Comes_Mr._Jordan,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+114,1941,Hold Back the Dawn,/wiki/Hold_Back_the_Dawn,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+115,1941,The Little Foxes ,/wiki/The_Little_Foxes_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+116,1941,The Maltese Falcon ,/wiki/The_Maltese_Falcon_(1941_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+117,1941,One Foot in Heaven,/wiki/One_Foot_in_Heaven,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+118,1941,Sergeant York ,/wiki/Sergeant_York_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+119,1941,Suspicion ,/wiki/Suspicion_(1941_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+120,1942,Mrs. Miniver,/wiki/Mrs._Miniver,True,12.0,1,0,0,0,0,0,0,0,0,0,0,0,0
+121,1942,49th Parallel ,/wiki/49th_Parallel_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+122,1942,Kings Row,/wiki/Kings_Row,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+123,1942,The Magnificent Ambersons ,/wiki/The_Magnificent_Ambersons_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+124,1942,The Pied Piper ,/wiki/The_Pied_Piper_(1942_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+125,1942,The Pride of the Yankees,/wiki/The_Pride_of_the_Yankees,False,11.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+126,1942,Random Harvest ,/wiki/Random_Harvest_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+127,1942,The Talk of the Town ,/wiki/The_Talk_of_the_Town_(1942_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+128,1942,Wake Island ,/wiki/Wake_Island_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+129,1942,Yankee Doodle Dandy,/wiki/Yankee_Doodle_Dandy,False,8.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+130,1943,Casablanca ,/wiki/Casablanca_(film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0
+131,1943,For Whom the Bell Tolls ,/wiki/For_Whom_the_Bell_Tolls_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+132,1943,Heaven Can Wait ,/wiki/Heaven_Can_Wait_(1943_film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0
+133,1943,The Human Comedy ,/wiki/The_Human_Comedy_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+134,1943,In Which We Serve,/wiki/In_Which_We_Serve,False,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+135,1943,Madame Curie ,/wiki/Madame_Curie_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+136,1943,The More the Merrier,/wiki/The_More_the_Merrier,False,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+137,1943,The Ox-Bow Incident,/wiki/The_Ox-Bow_Incident,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+138,1943,The Song of Bernadette ,/wiki/The_Song_of_Bernadette_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+139,1943,Watch on the Rhine,/wiki/Watch_on_the_Rhine,False,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+140,1944,Going My Way,/wiki/Going_My_Way,True,10.0,1,1,1,0,0,0,0,0,0,0,0,0,0
+141,1944,Double Indemnity,/wiki/Double_Indemnity,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+142,1944,Gaslight ,/wiki/Gaslight_(1944_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143,1944,Since You Went Away,/wiki/Since_You_Went_Away,False,9.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+144,1944,Wilson ,/wiki/Wilson_(1944_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+145,1945,The Lost Weekend ,/wiki/The_Lost_Weekend_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0
+146,1945,Anchors Aweigh ,/wiki/Anchors_Aweigh_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+147,1945,The Bells of St. Mary's,/wiki/The_Bells_of_St._Mary%27s,False,8.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+148,1945,Mildred Pierce ,/wiki/Mildred_Pierce_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+149,1945,Spellbound ,/wiki/Spellbound_(1945_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+150,1946,The Best Years of Our Lives,/wiki/The_Best_Years_of_Our_Lives,True,8.0,1,1,1,0,0,0,0,0,0,0,0,0,0
+151,1946,Henry V ,/wiki/Henry_V_(1944_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+152,1946,It's a Wonderful Life,/wiki/It%27s_a_Wonderful_Life,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+153,1946,The Razor's Edge ,/wiki/The_Razor%27s_Edge_(1946_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+154,1946,The Yearling ,/wiki/The_Yearling_(1946_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+155,1947,Gentleman's Agreement,/wiki/Gentleman%27s_Agreement,True,8.0,1,1,1,0,0,0,0,0,0,0,0,0,0
+156,1947,The Bishop's Wife,/wiki/The_Bishop%27s_Wife,False,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+157,1947,Crossfire ,/wiki/Crossfire_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+158,1947,Great Expectations ,/wiki/Great_Expectations_(1946_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+159,1947,Miracle on 34th Street,/wiki/Miracle_on_34th_Street,False,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+160,1948,Hamlet ,/wiki/Hamlet_(1948_film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0
+161,1948,Johnny Belinda ,/wiki/Johnny_Belinda_(1948_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+162,1948,The Red Shoes ,/wiki/The_Red_Shoes_(1948_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+163,1948,The Snake Pit,/wiki/The_Snake_Pit,False,6.0,0,0,0,0,0,0,0,0,0,1,0,0,0
+164,1948,The Treasure of the Sierra Madre ,/wiki/The_Treasure_of_the_Sierra_Madre_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+165,1949,All the King's Men ,/wiki/All_the_King%27s_Men_(1949_film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0
+166,1949,Battleground ,/wiki/Battleground_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+167,1949,The Heiress,/wiki/The_Heiress,False,8.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+168,1949,A Letter to Three Wives,/wiki/A_Letter_to_Three_Wives,False,3.0,0,0,0,0,0,0,0,0,0,1,1,0,0
+169,1949,Twelve O'Clock High,/wiki/Twelve_O%27Clock_High,False,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+170,1950,All About Eve,/wiki/All_About_Eve,True,14.0,1,1,0,0,0,0,0,0,0,1,1,0,0
+171,1950,Born Yesterday ,/wiki/Born_Yesterday_(1950_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+172,1950,Father of the Bride ,/wiki/Father_of_the_Bride_(1950_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+173,1950,King Solomon's Mines ,/wiki/King_Solomon%27s_Mines_(1950_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+174,1950,Sunset Boulevard ,/wiki/Sunset_Boulevard_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+175,1951,An American in Paris ,/wiki/An_American_in_Paris_(film),True,7.0,1,0,0,1,1,0,0,0,0,0,0,0,0
+176,1951,Decision Before Dawn,/wiki/Decision_Before_Dawn,False,7.0,0,0,0,0,0,0,0,0,0,1,0,0,0
+177,1951,A Place in the Sun ,/wiki/A_Place_in_the_Sun_(1951_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+178,1951,Quo Vadis ,/wiki/Quo_Vadis_(1951_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+179,1951,A Streetcar Named Desire ,/wiki/A_Streetcar_Named_Desire_(1951_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+180,1952,The Greatest Show on Earth ,/wiki/The_Greatest_Show_on_Earth_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0
+181,1952,High Noon,/wiki/High_Noon,False,7.0,0,1,0,0,0,0,0,0,0,1,0,0,0
+182,1952,Ivanhoe ,/wiki/Ivanhoe_(1952_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+183,1952,Moulin Rouge ,/wiki/Moulin_Rouge_(1952_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+184,1952,The Quiet Man,/wiki/The_Quiet_Man,False,7.0,0,0,0,0,0,0,0,0,0,1,1,0,0
+185,1953,From Here to Eternity,/wiki/From_Here_to_Eternity,True,13.0,1,0,0,0,0,0,0,0,0,1,1,0,0
+186,1953,Julius Caesar ,/wiki/Julius_Caesar_(1953_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+187,1953,The Robe ,/wiki/The_Robe_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+188,1953,Roman Holiday,/wiki/Roman_Holiday,False,10.0,0,0,0,0,0,0,0,0,0,1,0,0,0
+189,1953,Shane ,/wiki/Shane_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+190,1954,On the Waterfront,/wiki/On_the_Waterfront,True,12.0,1,1,1,0,0,0,0,0,0,1,1,0,0
+191,1954,The Caine Mutiny ,/wiki/The_Caine_Mutiny_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+192,1954,The Country Girl ,/wiki/The_Country_Girl_(1954_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193,1954,Seven Brides for Seven Brothers,/wiki/Seven_Brides_for_Seven_Brothers,False,5.0,0,0,0,0,0,0,0,0,0,1,0,0,0
+194,1954,Three Coins in the Fountain ,/wiki/Three_Coins_in_the_Fountain_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+195,1955,Marty ,/wiki/Marty_(film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0
+196,1955,Love Is a Many-Splendored Thing ,/wiki/Love_Is_a_Many-Splendored_Thing_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+197,1955,Mister Roberts ,/wiki/Mister_Roberts_(1955_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+198,1955,Picnic ,/wiki/Picnic_(1955_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+199,1955,The Rose Tattoo ,/wiki/The_Rose_Tattoo_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+200,1956,Around the World in 80 Days ,/wiki/Around_the_World_in_80_Days_(1956_film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0
+201,1956,Friendly Persuasion ,/wiki/Friendly_Persuasion_(1956_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+202,1956,Giant ,/wiki/Giant_(1956_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+203,1956,The King and I ,/wiki/The_King_and_I_(1956_film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0
+204,1956,The Ten Commandments ,/wiki/The_Ten_Commandments_(1956_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+205,1957,The Bridge on the River Kwai,/wiki/The_Bridge_on_the_River_Kwai,True,8.0,1,1,1,0,0,0,0,0,0,1,1,0,0
+206,1957,12 Angry Men ,/wiki/12_Angry_Men_(1957_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+207,1957,Peyton Place ,/wiki/Peyton_Place_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+208,1957,Sayonara,/wiki/Sayonara,False,10.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+209,1957,Witness for the Prosecution ,/wiki/Witness_for_the_Prosecution_(1957_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+210,1958,Gigi ,/wiki/Gigi_(1958_film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0
+211,1958,Auntie Mame ,/wiki/Auntie_Mame_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+212,1958,Cat on a Hot Tin Roof ,/wiki/Cat_on_a_Hot_Tin_Roof_(1958_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+213,1958,The Defiant Ones,/wiki/The_Defiant_Ones,False,9.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+214,1958,Separate Tables ,/wiki/Separate_Tables_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+215,1959,Ben-Hur ,/wiki/Ben-Hur_(1959_film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0
+216,1959,Anatomy of a Murder,/wiki/Anatomy_of_a_Murder,False,7.0,0,1,0,0,0,0,0,0,0,1,0,0,0
+217,1959,The Diary of Anne Frank ,/wiki/The_Diary_of_Anne_Frank_(1959_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+218,1959,The Nun's Story ,/wiki/The_Nun%27s_Story_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+219,1959,Room at the Top ,/wiki/Room_at_the_Top_(1959_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+220,1960,The Apartment,/wiki/The_Apartment,True,10.0,1,0,0,0,0,0,0,1,1,1,1,0,0
+221,1960,The Alamo ,/wiki/The_Alamo_(1960_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+222,1960,Elmer Gantry ,/wiki/Elmer_Gantry_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+223,1960,Sons and Lovers ,/wiki/Sons_and_Lovers_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+224,1960,The Sundowners ,/wiki/The_Sundowners_(1960_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+225,1961,West Side Story ,/wiki/West_Side_Story_(1961_film),True,7.0,1,0,0,1,1,0,0,0,0,0,0,0,0
+226,1961,Fanny ,/wiki/Fanny_(1961_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+227,1961,The Guns of Navarone ,/wiki/The_Guns_of_Navarone_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+228,1961,The Hustler,/wiki/The_Hustler,False,9.0,0,0,0,0,0,0,0,1,1,0,0,0,0
+229,1961,Judgment at Nuremberg,/wiki/Judgment_at_Nuremberg,False,11.0,0,1,0,0,0,0,0,1,0,1,0,0,0
+230,1962,Lawrence of Arabia ,/wiki/Lawrence_of_Arabia_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0
+231,1962,The Longest Day ,/wiki/The_Longest_Day_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+232,1962,The Music Man ,/wiki/The_Music_Man_(1962_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+233,1962,Mutiny on the Bounty ,/wiki/Mutiny_on_the_Bounty_(1962_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+234,1962,To Kill a Mockingbird ,/wiki/To_Kill_a_Mockingbird_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+235,1963,Tom Jones ,/wiki/Tom_Jones_(1963_film),True,7.0,1,0,0,1,1,0,0,0,0,0,0,0,0
+236,1963,America America,/wiki/America_America,False,4.0,0,1,0,0,0,0,0,0,0,1,0,0,0
+237,1963,Cleopatra ,/wiki/Cleopatra_(1963_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+238,1963,How the West Was Won ,/wiki/How_the_West_Was_Won_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+239,1963,Lilies of the Field ,/wiki/Lilies_of_the_Field_(1963_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+240,1964,My Fair Lady ,/wiki/My_Fair_Lady_(film),True,7.0,1,0,0,1,1,0,0,0,0,0,0,0,0
+241,1964,Becket ,/wiki/Becket_(1964_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+242,1964,Dr. Strangelove,/wiki/Dr._Strangelove,False,7.0,0,0,0,0,0,0,0,1,1,1,0,0,0
+243,1964,Mary Poppins ,/wiki/Mary_Poppins_(film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0
+244,1964,Zorba the Greek ,/wiki/Zorba_the_Greek_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+245,1965,The Sound of Music ,/wiki/The_Sound_of_Music_(film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0
+246,1965,Darling ,/wiki/Darling_(1965_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+247,1965,Doctor Zhivago ,/wiki/Doctor_Zhivago_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+248,1965,Ship of Fools ,/wiki/Ship_of_Fools_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+249,1965,A Thousand Clowns,/wiki/A_Thousand_Clowns,False,4.0,0,0,0,1,0,0,0,0,0,0,0,0,0
+250,1966,A Man for All Seasons ,/wiki/A_Man_for_All_Seasons_(1966_film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0
+251,1966,Alfie ,/wiki/Alfie_(1966_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+252,1966,"The Russians Are Coming, the Russians Are Coming","/wiki/The_Russians_Are_Coming,_the_Russians_Are_Coming",False,7.0,0,0,0,0,0,0,0,0,0,1,0,0,0
+253,1966,The Sand Pebbles ,/wiki/The_Sand_Pebbles_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+254,1966,Who's Afraid of Virginia Woolf? ,/wiki/Who%27s_Afraid_of_Virginia_Woolf%3F_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+255,1967,In the Heat of the Night ,/wiki/In_the_Heat_of_the_Night_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0
+256,1967,Bonnie and Clyde ,/wiki/Bonnie_and_Clyde_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+257,1967,Doctor Dolittle ,/wiki/Doctor_Dolittle_(1967_film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0
+258,1967,The Graduate,/wiki/The_Graduate,False,7.0,0,0,0,1,1,0,0,1,1,1,1,0,0
+259,1967,Guess Who's Coming to Dinner,/wiki/Guess_Who%27s_Coming_to_Dinner,False,10.0,0,1,0,0,0,0,0,0,0,1,0,0,0
+260,1968,Oliver! ,/wiki/Oliver!_(film),True,7.0,1,0,0,1,1,0,0,0,0,0,0,0,0
+261,1968,Funny Girl ,/wiki/Funny_Girl_(film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0
+262,1968,The Lion in Winter ,/wiki/The_Lion_in_Winter_(1968_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+263,1968,"Rachel, Rachel","/wiki/Rachel,_Rachel",False,7.0,0,0,0,0,0,0,0,0,0,1,0,0,0
+264,1968,Romeo and Juliet ,/wiki/Romeo_and_Juliet_(1968_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,1969,Midnight Cowboy,/wiki/Midnight_Cowboy,True,7.0,1,1,0,0,0,0,0,1,1,1,1,0,0
+266,1969,Anne of the Thousand Days,/wiki/Anne_of_the_Thousand_Days,False,10.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+267,1969,Butch Cassidy and the Sundance Kid,/wiki/Butch_Cassidy_and_the_Sundance_Kid,False,7.0,0,1,0,0,0,0,0,1,1,1,0,0,0
+268,1969,"Hello, Dolly! ","/wiki/Hello,_Dolly!_(film)",False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0
+269,1969,Z ,/wiki/Z_(1969_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+270,1970,Patton ,/wiki/Patton_(film),True,7.0,1,1,0,0,0,0,0,0,0,0,0,0,0
+271,1970,Airport ,/wiki/Airport_(1970_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+272,1970,Five Easy Pieces,/wiki/Five_Easy_Pieces,False,7.0,0,1,0,0,0,0,0,0,0,1,0,0,0
+273,1970,Love Story ,/wiki/Love_Story_(1970_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+274,1970,M*A*S*H ,/wiki/M*A*S*H_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,1971,The French Connection ,/wiki/The_French_Connection_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0
+276,1971,A Clockwork Orange ,/wiki/A_Clockwork_Orange_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+277,1971,Fiddler on the Roof ,/wiki/Fiddler_on_the_Roof_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+278,1971,The Last Picture Show,/wiki/The_Last_Picture_Show,False,8.0,0,1,0,0,0,0,0,1,0,1,0,0,0
+279,1971,Nicholas and Alexandra,/wiki/Nicholas_and_Alexandra,False,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,1972,The Godfather,/wiki/The_Godfather,True,10.0,1,1,1,0,0,0,0,0,0,1,1,0,0
+281,1972,Cabaret ,/wiki/Cabaret_(1972_film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0
+282,1972,Deliverance,/wiki/Deliverance,False,7.0,0,1,0,0,0,0,0,0,0,1,0,0,0
+283,1972,The Emigrants ,/wiki/The_Emigrants_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,1972,Sounder ,/wiki/Sounder_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,1973,The Sting,/wiki/The_Sting,True,10.0,1,0,0,0,0,0,0,0,0,1,1,0,0
+286,1973,American Graffiti,/wiki/American_Graffiti,False,7.0,0,0,0,1,1,0,0,0,0,1,0,0,0
+287,1973,Cries and Whispers,/wiki/Cries_and_Whispers,False,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+288,1973,The Exorcist,/wiki/The_Exorcist,False,10.0,0,1,1,0,0,0,0,0,0,1,0,0,0
+289,1973,A Touch of Class ,/wiki/A_Touch_of_Class_(film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0
+290,1974,The Godfather Part II,/wiki/The_Godfather_Part_II,True,7.0,1,1,0,0,0,0,0,0,0,1,1,0,0
+291,1974,Chinatown ,/wiki/Chinatown_(1974_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+292,1974,The Conversation,/wiki/The_Conversation,False,7.0,0,1,0,0,0,0,0,0,0,1,0,0,0
+293,1974,Lenny ,/wiki/Lenny_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,1974,The Towering Inferno,/wiki/The_Towering_Inferno,False,8.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+295,1975,One Flew Over the Cuckoo's Nest ,/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0
+296,1975,Barry Lyndon,/wiki/Barry_Lyndon,False,7.0,0,1,0,0,0,0,0,1,0,1,0,0,0
+297,1975,Dog Day Afternoon,/wiki/Dog_Day_Afternoon,False,6.0,0,1,0,0,0,0,0,1,0,1,0,0,0
+298,1975,Jaws ,/wiki/Jaws_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+299,1975,Nashville ,/wiki/Nashville_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+300,1976,Rocky,/wiki/Rocky,True,10.0,1,1,1,0,0,0,0,1,0,1,1,0,0
+301,1976,All the President's Men ,/wiki/All_the_President%27s_Men_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+302,1976,Bound for Glory ,/wiki/Bound_for_Glory_(1976_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+303,1976,Network ,/wiki/Network_(1976_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+304,1976,Taxi Driver,/wiki/Taxi_Driver,False,7.0,0,0,0,0,0,0,0,1,0,1,0,0,0
+305,1977,Annie Hall,/wiki/Annie_Hall,True,5.0,1,0,0,1,0,0,0,1,1,1,1,0,0
+306,1977,The Goodbye Girl,/wiki/The_Goodbye_Girl,False,5.0,0,0,0,1,1,0,0,0,0,0,0,0,0
+307,1977,Julia ,/wiki/Julia_(1977_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+308,1977,Star Wars ,/wiki/Star_Wars_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+309,1977,The Turning Point ,/wiki/The_Turning_Point_(1977_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+310,1978,The Deer Hunter,/wiki/The_Deer_Hunter,True,9.0,1,1,0,0,0,0,0,1,0,1,1,0,0
+311,1978,Coming Home ,/wiki/Coming_Home_(1978_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+312,1978,Heaven Can Wait ,/wiki/Heaven_Can_Wait_(1978_film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0
+313,1978,Midnight Express ,/wiki/Midnight_Express_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+314,1978,An Unmarried Woman,/wiki/An_Unmarried_Woman,False,7.0,0,1,0,0,0,0,0,0,0,1,0,0,0
+315,1979,Kramer vs. Kramer,/wiki/Kramer_vs._Kramer,True,9.0,1,1,1,0,0,0,0,1,0,1,1,0,0
+316,1979,All That Jazz ,/wiki/All_That_Jazz_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+317,1979,Apocalypse Now,/wiki/Apocalypse_Now,False,8.0,0,1,0,0,0,0,0,1,0,1,0,0,0
+318,1979,Breaking Away,/wiki/Breaking_Away,False,5.0,0,0,0,1,1,0,0,0,0,1,0,0,0
+319,1979,Norma Rae,/wiki/Norma_Rae,False,4.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+320,1980,Ordinary People,/wiki/Ordinary_People,True,6.0,1,1,1,0,0,0,0,0,0,1,1,0,0
+321,1980,Coal Miner's Daughter ,/wiki/Coal_Miner%27s_Daughter_(film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0
+322,1980,The Elephant Man ,/wiki/The_Elephant_Man_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+323,1980,Raging Bull,/wiki/Raging_Bull,False,8.0,0,1,0,0,0,0,0,0,0,1,0,0,0
+324,1980,Tess ,/wiki/Tess_(1979_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+325,1981,Chariots of Fire,/wiki/Chariots_of_Fire,True,7.0,1,0,0,0,0,0,0,1,1,1,0,0,0
+326,1981,Atlantic City ,/wiki/Atlantic_City_(1980_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+327,1981,On Golden Pond ,/wiki/On_Golden_Pond_(1981_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+328,1981,Raiders of the Lost Ark,/wiki/Raiders_of_the_Lost_Ark,False,8.0,0,0,0,0,0,0,0,1,0,1,0,0,0
+329,1981,Reds ,/wiki/Reds_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+330,1982,Gandhi ,/wiki/Gandhi_(film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0
+331,1982,E.T. the Extra-Terrestrial,/wiki/E.T._the_Extra-Terrestrial,False,7.0,0,1,1,0,0,0,0,1,0,1,0,0,0
+332,1982,Missing ,/wiki/Missing_(1982_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+333,1982,Tootsie,/wiki/Tootsie,False,10.0,0,0,0,1,1,0,0,1,0,1,0,0,0
+334,1982,The Verdict,/wiki/The_Verdict,False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+335,1983,Terms of Endearment,/wiki/Terms_of_Endearment,True,11.0,1,1,1,0,0,0,0,0,0,1,1,0,0
+336,1983,The Big Chill ,/wiki/The_Big_Chill_(film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0
+337,1983,The Dresser ,/wiki/The_Dresser_(1983_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+338,1983,The Right Stuff ,/wiki/The_Right_Stuff_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+339,1983,Tender Mercies,/wiki/Tender_Mercies,False,5.0,0,1,0,0,0,0,0,0,0,1,0,0,0
+340,1984,Amadeus ,/wiki/Amadeus_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0
+341,1984,The Killing Fields ,/wiki/The_Killing_Fields_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+342,1984,A Passage to India ,/wiki/A_Passage_to_India_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+343,1984,Places in the Heart,/wiki/Places_in_the_Heart,False,7.0,0,1,0,0,0,0,0,0,0,1,0,0,0
+344,1984,A Soldier's Story,/wiki/A_Soldier%27s_Story,False,7.0,0,1,0,0,0,0,0,0,0,1,0,0,0
+345,1985,Out of Africa ,/wiki/Out_of_Africa_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0
+346,1985,The Color Purple ,/wiki/The_Color_Purple_(1985_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+347,1985,Kiss of the Spider Woman ,/wiki/Kiss_of_the_Spider_Woman_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+348,1985,Prizzi's Honor,/wiki/Prizzi%27s_Honor,False,8.0,0,0,0,1,1,0,0,0,0,1,0,0,0
+349,1985,Witness ,/wiki/Witness_(1985_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+350,1986,Platoon ,/wiki/Platoon_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0
+351,1986,Children of a Lesser God ,/wiki/Children_of_a_Lesser_God_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+352,1986,Hannah and Her Sisters,/wiki/Hannah_and_Her_Sisters,False,7.0,0,0,0,1,1,0,0,1,0,1,0,0,0
+353,1986,The Mission ,/wiki/The_Mission_(1986_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+354,1986,A Room with a View ,/wiki/A_Room_with_a_View_(1985_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+355,1987,The Last Emperor,/wiki/The_Last_Emperor,True,9.0,1,1,1,0,0,0,0,1,1,1,1,0,0
+356,1987,Broadcast News ,/wiki/Broadcast_News_(film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0
+357,1987,Fatal Attraction,/wiki/Fatal_Attraction,False,7.0,0,1,0,0,0,0,0,0,0,1,0,0,0
+358,1987,Hope and Glory ,/wiki/Hope_and_Glory_(film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0
+359,1987,Moonstruck,/wiki/Moonstruck,False,6.0,0,0,0,1,0,0,0,0,0,0,0,0,0
+360,1988,Rain Man,/wiki/Rain_Man,True,8.0,1,1,1,0,0,0,0,0,0,1,1,0,0
+361,1988,The Accidental Tourist ,/wiki/The_Accidental_Tourist_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+362,1988,Dangerous Liaisons,/wiki/Dangerous_Liaisons,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+363,1988,Mississippi Burning,/wiki/Mississippi_Burning,False,7.0,0,1,0,0,0,0,0,0,0,1,0,0,0
+364,1988,Working Girl,/wiki/Working_Girl,False,6.0,0,0,0,1,1,0,0,0,0,1,0,0,0
+365,1989,Driving Miss Daisy,/wiki/Driving_Miss_Daisy,True,9.0,1,0,0,1,1,1,1,1,0,0,0,0,0
+366,1989,Born on the Fourth of July ,/wiki/Born_on_the_Fourth_of_July_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+367,1989,Dead Poets Society,/wiki/Dead_Poets_Society,False,4.0,0,1,0,0,0,0,0,1,1,1,0,0,0
+368,1989,Field of Dreams,/wiki/Field_of_Dreams,False,7.0,0,0,0,0,0,0,0,0,0,1,0,0,0
+369,1989,My Left Foot,/wiki/My_Left_Foot,False,5.0,0,0,0,0,0,0,0,1,0,0,0,0,0
+370,1990,Dances with Wolves,/wiki/Dances_with_Wolves,True,12.0,1,1,1,0,0,1,1,1,0,1,1,0,0
+371,1990,Awakenings,/wiki/Awakenings,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+372,1990,Ghost ,/wiki/Ghost_(1990_film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0
+373,1990,The Godfather Part III,/wiki/The_Godfather_Part_III,False,7.0,0,1,0,0,0,0,0,0,0,1,0,0,0
+374,1990,Goodfellas,/wiki/Goodfellas,False,6.0,0,1,0,0,0,0,0,1,1,1,0,0,0
+375,1991,The Silence of the Lambs ,/wiki/The_Silence_of_the_Lambs_(film),True,7.0,1,1,0,0,0,0,0,0,0,0,0,0,0
+376,1991,Beauty and the Beast ,/wiki/Beauty_and_the_Beast_(1991_film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0
+377,1991,Bugsy,/wiki/Bugsy,False,10.0,0,1,1,0,0,0,0,0,0,1,0,0,0
+378,1991,JFK ,/wiki/JFK_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+379,1991,The Prince of Tides,/wiki/The_Prince_of_Tides,False,7.0,0,1,0,0,0,1,0,0,0,1,0,0,0
+380,1992,Unforgiven,/wiki/Unforgiven,True,9.0,1,1,0,0,0,1,0,1,0,1,1,0,0
+381,1992,The Crying Game,/wiki/The_Crying_Game,False,6.0,0,1,0,0,0,1,1,1,0,1,0,0,0
+382,1992,A Few Good Men,/wiki/A_Few_Good_Men,False,7.0,0,1,0,0,0,1,0,0,0,1,0,0,0
+383,1992,Howards End ,/wiki/Howards_End_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+384,1992,Scent of a Woman ,/wiki/Scent_of_a_Woman_(1992_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+385,1993,Schindler's List,/wiki/Schindler%27s_List,True,12.0,1,1,1,0,0,1,1,1,1,1,1,0,0
+386,1993,The Fugitive ,/wiki/The_Fugitive_(1993_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+387,1993,In the Name of the Father ,/wiki/In_the_Name_of_the_Father_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+388,1993,The Piano,/wiki/The_Piano,False,8.0,0,1,0,0,0,1,0,1,0,1,0,0,0
+389,1993,The Remains of the Day ,/wiki/The_Remains_of_the_Day_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+390,1994,Forrest Gump,/wiki/Forrest_Gump,True,13.0,1,1,1,0,0,1,1,1,0,1,1,0,0
+391,1994,Four Weddings and a Funeral,/wiki/Four_Weddings_and_a_Funeral,False,7.0,0,0,0,1,0,1,0,1,1,1,0,0,0
+392,1994,Pulp Fiction,/wiki/Pulp_Fiction,False,7.0,0,1,0,0,0,1,0,1,0,1,0,0,0
+393,1994,Quiz Show ,/wiki/Quiz_Show_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+394,1994,The Shawshank Redemption,/wiki/The_Shawshank_Redemption,False,7.0,0,0,0,0,0,1,0,0,0,1,0,0,0
+395,1995,Braveheart,/wiki/Braveheart,True,10.0,1,1,0,0,0,0,0,0,0,1,0,0,0
+396,1995,Apollo 13 ,/wiki/Apollo_13_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+397,1995,Babe ,/wiki/Babe_(film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0
+398,1995,Il Postino: The Postman,/wiki/Il_Postino:_The_Postman,False,5.0,0,0,0,0,0,1,0,0,0,1,0,0,0
+399,1995,Sense and Sensibility ,/wiki/Sense_and_Sensibility_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+400,1996,The English Patient ,/wiki/The_English_Patient_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0
+401,1996,Fargo ,/wiki/Fargo_(1996_film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0
+402,1996,Jerry Maguire,/wiki/Jerry_Maguire,False,5.0,0,0,0,1,0,0,0,0,0,1,0,0,0
+403,1996,Secrets & Lies ,/wiki/Secrets_%26_Lies_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+404,1996,Shine ,/wiki/Shine_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+405,1997,Titanic ,/wiki/Titanic_(1997_film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0
+406,1997,As Good as It Gets,/wiki/As_Good_as_It_Gets,False,7.0,0,0,0,1,1,1,0,0,0,1,0,0,0
+407,1997,The Full Monty,/wiki/The_Full_Monty,False,4.0,0,0,0,1,0,0,0,1,1,0,0,1,1
+408,1997,Good Will Hunting,/wiki/Good_Will_Hunting,False,9.0,0,1,0,0,0,1,0,0,0,1,0,1,0
+409,1997,L.A. Confidential ,/wiki/L.A._Confidential_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+410,1998,Shakespeare in Love,/wiki/Shakespeare_in_Love,True,13.0,1,0,0,1,1,1,0,1,1,1,0,1,1
+411,1998,Elizabeth ,/wiki/Elizabeth_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+412,1998,Life Is Beautiful,/wiki/Life_Is_Beautiful,False,7.0,0,0,0,0,0,1,0,0,0,1,0,1,0
+413,1998,Saving Private Ryan,/wiki/Saving_Private_Ryan,False,11.0,0,1,1,0,0,1,1,1,0,1,1,1,0
+414,1998,The Thin Red Line ,/wiki/The_Thin_Red_Line_(1998_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+415,1999,American Beauty ,/wiki/American_Beauty_(1999_film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0
+416,1999,The Cider House Rules ,/wiki/The_Cider_House_Rules_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+417,1999,The Green Mile ,/wiki/The_Green_Mile_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+418,1999,The Insider ,/wiki/The_Insider_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+419,1999,The Sixth Sense,/wiki/The_Sixth_Sense,False,7.0,0,0,0,0,0,0,0,1,0,1,0,0,0
+420,2000,Gladiator ,/wiki/Gladiator_(2000_film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0
+421,2000,Chocolat ,/wiki/Chocolat_(2000_film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0
+422,2000,"Crouching Tiger, Hidden Dragon","/wiki/Crouching_Tiger,_Hidden_Dragon",False,10.0,0,0,0,0,0,1,0,1,0,1,1,0,0
+423,2000,Erin Brockovich ,/wiki/Erin_Brockovich_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+424,2000,Traffic ,/wiki/Traffic_(2000_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+425,2001,A Beautiful Mind ,/wiki/A_Beautiful_Mind_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0
+426,2001,Gosford Park,/wiki/Gosford_Park,False,7.0,0,0,0,1,0,0,0,0,0,0,0,1,1
+427,2001,In the Bedroom,/wiki/In_the_Bedroom,False,7.0,0,1,0,0,0,0,0,0,0,0,0,1,0
+428,2001,The Lord of the Rings: The Fellowship of the Ring,/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring,False,13.0,0,1,0,0,0,1,0,1,1,1,0,1,0
+429,2001,Moulin Rouge!,/wiki/Moulin_Rouge!,False,8.0,0,0,0,1,1,1,1,1,0,1,0,1,0
+430,2002,Chicago ,/wiki/Chicago_(2002_film),True,7.0,1,0,0,1,1,0,0,0,0,0,0,0,0
+431,2002,Gangs of New York,/wiki/Gangs_of_New_York,False,7.0,0,1,0,0,0,1,0,1,0,1,0,0,0
+432,2002,The Hours ,/wiki/The_Hours_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+433,2002,The Lord of the Rings: The Two Towers,/wiki/The_Lord_of_the_Rings:_The_Two_Towers,False,6.0,0,1,0,0,0,1,0,1,0,1,0,1,0
+434,2002,The Pianist ,/wiki/The_Pianist_(2002_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+435,2003,The Lord of the Rings: The Return of the King,/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King,True,11.0,1,1,1,0,0,1,1,1,1,1,1,1,1
+436,2003,Lost in Translation ,/wiki/Lost_in_Translation_(film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0
+437,2003,Master and Commander: The Far Side of the World,/wiki/Master_and_Commander:_The_Far_Side_of_the_World,False,10.0,0,1,0,0,0,1,0,1,0,1,0,0,0
+438,2003,Mystic River ,/wiki/Mystic_River_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+439,2003,Seabiscuit ,/wiki/Seabiscuit_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+440,2004,Million Dollar Baby,/wiki/Million_Dollar_Baby,True,7.0,1,1,0,0,0,1,0,0,0,1,1,1,0
+441,2004,The Aviator ,/wiki/The_Aviator_(2004_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+442,2004,Finding Neverland ,/wiki/Finding_Neverland_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+443,2004,Ray ,/wiki/Ray_(film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0
+444,2004,Sideways,/wiki/Sideways,False,5.0,0,0,0,1,1,1,0,0,0,1,0,1,1
+445,2005,Crash ,/wiki/Crash_(2004_film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0
+446,2005,Brokeback Mountain,/wiki/Brokeback_Mountain,False,8.0,0,1,1,0,0,1,1,1,1,1,1,1,0
+447,2005,Capote ,/wiki/Capote_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+448,2005,"Good Night, and Good Luck","/wiki/Good_Night,_and_Good_Luck",False,7.0,0,1,0,0,0,1,0,1,0,1,0,1,0
+449,2005,Munich ,/wiki/Munich_(2005_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+450,2006,The Departed,/wiki/The_Departed,True,5.0,1,1,0,0,0,1,0,1,0,1,1,1,0
+451,2006,Babel ,/wiki/Babel_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+452,2006,Letters from Iwo Jima,/wiki/Letters_from_Iwo_Jima,False,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+453,2006,Little Miss Sunshine,/wiki/Little_Miss_Sunshine,False,4.0,0,0,0,1,0,1,1,1,0,1,0,1,1
+454,2006,The Queen ,/wiki/The_Queen_(2006_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+455,2007,No Country for Old Men,/wiki/No_Country_for_Old_Men,True,8.0,1,1,0,0,0,1,1,1,0,1,1,1,1
+456,2007,Atonement ,/wiki/Atonement_(2007_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+457,2007,Juno ,/wiki/Juno_(film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0
+458,2007,Michael Clayton ,/wiki/Michael_Clayton_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+459,2007,There Will Be Blood,/wiki/There_Will_Be_Blood,False,8.0,0,1,0,0,0,1,0,1,0,1,0,0,0
+460,2008,Slumdog Millionaire,/wiki/Slumdog_Millionaire,True,10.0,1,1,1,0,0,1,1,1,1,1,1,1,1
+461,2008,The Curious Case of Benjamin Button ,/wiki/The_Curious_Case_of_Benjamin_Button_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+462,2008,Frost/Nixon ,/wiki/Frost/Nixon_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+463,2008,Milk ,/wiki/Milk_(2008_American_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+464,2008,The Reader ,/wiki/The_Reader_(2008_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+465,2009,The Hurt Locker,/wiki/The_Hurt_Locker,True,9.0,1,1,0,0,0,1,1,1,1,1,1,1,0
+466,2009,Avatar ,/wiki/Avatar_(2009_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+467,2009,The Blind Side ,/wiki/The_Blind_Side_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+468,2009,District 9,/wiki/District_9,False,7.0,0,0,0,0,0,1,0,0,0,0,0,0,0
+469,2009,An Education,/wiki/An_Education,False,7.0,0,0,0,0,0,1,0,1,0,0,0,1,0
+470,2009,Inglourious Basterds,/wiki/Inglourious_Basterds,False,8.0,0,1,0,0,0,1,0,0,0,1,0,1,1
+471,2009,Precious ,/wiki/Precious_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+472,2009,A Serious Man,/wiki/A_Serious_Man,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+473,2009,Up ,/wiki/Up_(2009_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+474,2009,Up in the Air ,/wiki/Up_in_the_Air_(2009_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+475,2010,The King's Speech,/wiki/The_King%27s_Speech,True,12.0,1,1,0,0,0,1,1,1,1,1,1,1,1
+476,2010,Black Swan ,/wiki/Black_Swan_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+477,2010,The Fighter,/wiki/The_Fighter,False,7.0,0,1,0,0,0,1,0,0,0,1,0,1,0
+478,2010,Inception,/wiki/Inception,False,8.0,0,1,0,0,0,1,0,1,0,1,0,0,0
+479,2010,The Kids Are All Right ,/wiki/The_Kids_Are_All_Right_(film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0
+480,2010,127 Hours,/wiki/127_Hours,False,7.0,0,0,0,0,0,1,0,0,0,0,0,0,0
+481,2010,The Social Network,/wiki/The_Social_Network,False,8.0,0,1,1,0,0,1,0,1,0,1,0,1,0
+482,2010,Toy Story 3,/wiki/Toy_Story_3,False,5.0,0,0,0,0,0,1,0,0,0,0,0,0,0
+483,2010,True Grit ,/wiki/True_Grit_(2010_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+484,2010,Winter's Bone,/wiki/Winter%27s_Bone,False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+485,2011,The Artist ,/wiki/The_Artist_(film),True,7.0,1,0,0,1,1,0,0,0,0,0,0,0,0
+486,2011,The Descendants,/wiki/The_Descendants,False,5.0,0,1,1,0,0,1,0,1,0,1,0,1,0
+487,2011,Extremely Loud & Incredibly Close ,/wiki/Extremely_Loud_%26_Incredibly_Close_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+488,2011,The Help ,/wiki/The_Help_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+489,2011,Hugo ,/wiki/Hugo_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+490,2011,Midnight in Paris,/wiki/Midnight_in_Paris,False,4.0,0,0,0,1,0,1,0,0,0,1,0,1,0
+491,2011,Moneyball ,/wiki/Moneyball_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+492,2011,The Tree of Life ,/wiki/The_Tree_of_Life_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+493,2011,War Horse ,/wiki/War_Horse_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+494,2012,Argo ,/wiki/Argo_(2012_film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0
+495,2012,Amour ,/wiki/Amour_(2012_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+496,2012,Beasts of the Southern Wild,/wiki/Beasts_of_the_Southern_Wild,False,7.0,0,0,0,0,0,1,0,0,0,0,0,0,0
+497,2012,Django Unchained,/wiki/Django_Unchained,False,5.0,0,1,0,0,0,1,0,0,0,0,0,0,0
+498,2012,Life of Pi ,/wiki/Life_of_Pi_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+499,2012,Lincoln ,/wiki/Lincoln_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+500,2012,Les Misérables ,/wiki/Les_Mis%C3%A9rables_(2012_film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0
+501,2012,Silver Linings Playbook,/wiki/Silver_Linings_Playbook,False,8.0,0,0,0,1,0,1,0,0,0,0,0,1,0
+502,2012,Zero Dark Thirty,/wiki/Zero_Dark_Thirty,False,5.0,0,1,0,0,0,1,0,1,0,1,0,0,0
+503,2013,12 Years a Slave ,/wiki/12_Years_a_Slave_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0
+504,2013,American Hustle,/wiki/American_Hustle,False,7.0,0,0,0,1,1,1,0,1,0,1,0,1,1
+505,2013,Captain Phillips ,/wiki/Captain_Phillips_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+506,2013,Dallas Buyers Club,/wiki/Dallas_Buyers_Club,False,6.0,0,0,0,0,0,1,0,0,0,0,0,1,0
+507,2013,Gravity ,/wiki/Gravity_(2013_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+508,2013,Her ,/wiki/Her_(film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0
+509,2013,Nebraska ,/wiki/Nebraska_(film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0
+510,2013,Philomena ,/wiki/Philomena_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+511,2013,The Wolf of Wall Street ,/wiki/The_Wolf_of_Wall_Street_(2013_film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0
+512,2014,Birdman ,/wiki/Birdman_(film),True,7.0,1,0,0,1,0,0,0,0,0,0,0,0,0
+513,2014,American Sniper,/wiki/American_Sniper,False,6.0,0,0,0,0,0,1,0,0,0,1,0,0,0
+514,2014,Boyhood ,/wiki/Boyhood_(2014_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+515,2014,The Grand Budapest Hotel,/wiki/The_Grand_Budapest_Hotel,False,9.0,0,0,0,1,1,1,0,1,0,1,0,1,0
+516,2014,The Imitation Game,/wiki/The_Imitation_Game,False,8.0,0,1,0,0,0,1,0,1,0,1,0,1,0
+517,2014,Selma ,/wiki/Selma_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+518,2014,The Theory of Everything ,/wiki/The_Theory_of_Everything_(2014_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+519,2014,Whiplash ,/wiki/Whiplash_(2014_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+520,2015,Spotlight ,/wiki/Spotlight_(film),True,7.0,1,1,0,0,0,0,0,0,0,0,0,0,0
+521,2015,The Big Short ,/wiki/The_Big_Short_(film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0
+522,2015,Bridge of Spies ,/wiki/Bridge_of_Spies_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+523,2015,Brooklyn ,/wiki/Brooklyn_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+524,2015,Mad Max: Fury Road,/wiki/Mad_Max:_Fury_Road,False,10.0,0,1,0,0,0,1,0,0,0,1,0,0,0
+525,2015,The Martian ,/wiki/The_Martian_(film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0
+526,2015,The Revenant ,/wiki/The_Revenant_(2015_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+527,2015,Room ,/wiki/Room_(2015_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+528,2016,Moonlight ,/wiki/Moonlight_(2016_film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0
+529,2016,Arrival ,/wiki/Arrival_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+530,2016,Fences ,/wiki/Fences_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+531,2016,Hacksaw Ridge,/wiki/Hacksaw_Ridge,False,6.0,0,1,0,0,0,1,0,0,0,0,0,0,0
+532,2016,Hell or High Water ,/wiki/Hell_or_High_Water_(2016_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+533,2016,Hidden Figures,/wiki/Hidden_Figures,False,7.0,0,0,0,0,0,1,0,0,0,0,0,1,1
+534,2016,La La Land,/wiki/La_La_Land,False,14.0,0,0,0,1,1,0,0,1,1,1,1,0,0
+535,2016,Lion ,/wiki/Lion_(2016_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+536,2016,Manchester by the Sea ,/wiki/Manchester_by_the_Sea_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+537,2017,The Shape of Water,/wiki/The_Shape_of_Water,True,13.0,1,1,0,0,0,1,1,0,0,1,1,0,0
+538,2017,Call Me by Your Name ,/wiki/Call_Me_by_Your_Name_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+539,2017,Darkest Hour ,/wiki/Darkest_Hour_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+540,2017,Dunkirk ,/wiki/Dunkirk_(2017_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+541,2017,Get Out,/wiki/Get_Out,False,4.0,0,0,0,1,0,1,0,0,0,1,0,1,0
+542,2017,Lady Bird ,/wiki/Lady_Bird_(film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0
+543,2017,Phantom Thread,/wiki/Phantom_Thread,False,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+544,2017,The Post ,/wiki/The_Post_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+545,2017,"Three Billboards Outside Ebbing, Missouri","/wiki/Three_Billboards_Outside_Ebbing,_Missouri",False,7.0,0,1,1,0,0,1,0,1,1,1,0,1,1
+546,2018,Green Book ,/wiki/Green_Book_(film),True,7.0,1,0,0,1,1,0,0,0,0,0,0,0,0
+547,2018,Black Panther ,/wiki/Black_Panther_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+548,2018,BlacKkKlansman,/wiki/BlacKkKlansman,False,6.0,0,1,0,0,0,1,0,1,0,1,0,1,0
+549,2018,Bohemian Rhapsody ,/wiki/Bohemian_Rhapsody_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+550,2018,The Favourite,/wiki/The_Favourite,False,10.0,0,0,0,1,1,1,0,1,0,0,0,0,0
+551,2018,Roma ,/wiki/Roma_(2018_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+552,2018,A Star Is Born ,/wiki/A_Star_Is_Born_(2018_film),False,7.0,0,1,0,1,1,0,0,0,0,0,0,0,0
+553,2018,Vice ,/wiki/Vice_(2018_film),False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0
+554,2019,Parasite ,/wiki/Parasite_(2019_film),True,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0
+555,2019,Ford v Ferrari,/wiki/Ford_v_Ferrari,False,4.0,0,0,0,0,0,1,0,0,0,0,0,0,0
+556,2019,The Irishman,/wiki/The_Irishman,False,7.0,0,1,0,0,0,1,0,1,0,1,0,1,0
+557,2019,Jojo Rabbit,/wiki/Jojo_Rabbit,False,6.0,0,0,0,1,0,1,0,0,0,1,0,1,0
+558,2019,Joker ,/wiki/Joker_(2019_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+559,2019,Little Women ,/wiki/Little_Women_(2019_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+560,2019,Marriage Story,/wiki/Marriage_Story,False,6.0,0,1,0,0,0,1,0,0,0,0,0,0,0
+561,2019,1917 ,/wiki/1917_(2019_film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+562,2019,Once Upon a Time in Hollywood,/wiki/Once_Upon_a_Time_in_Hollywood,False,10.0,0,0,0,1,1,1,0,1,0,1,0,1,0
+563,2020,Nomadland ,/wiki/Nomadland_(film),True,7.0,1,1,1,0,0,0,0,0,0,0,0,0,0
+564,2020,The Father ,/wiki/The_Father_(2020_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+565,2020,Judas and the Black Messiah,/wiki/Judas_and_the_Black_Messiah,False,6.0,0,0,0,0,0,1,0,0,0,0,0,0,0
+566,2020,Mank,/wiki/Mank,False,10.0,0,1,0,0,0,1,0,0,0,1,0,0,0
+567,2020,Minari ,/wiki/Minari_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+568,2020,Promising Young Woman,/wiki/Promising_Young_Woman,False,5.0,0,1,0,0,0,1,0,1,0,1,0,0,0
+569,2020,Sound of Metal,/wiki/Sound_of_Metal,False,6.0,0,0,0,0,0,1,0,0,0,0,0,0,0
+570,2020,The Trial of the Chicago 7,/wiki/The_Trial_of_the_Chicago_7,False,7.0,0,1,0,0,0,1,0,1,0,1,0,1,1
+571,2021,CODA ,/wiki/CODA_(2021_film),True,7.0,1,1,0,0,0,0,0,0,0,0,0,0,0
+572,2021,Belfast ,/wiki/Belfast_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+573,2021,Don't Look Up,/wiki/Don%27t_Look_Up,False,7.0,0,0,0,1,0,1,0,1,0,0,0,1,0
+574,2021,Drive My Car ,/wiki/Drive_My_Car_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+575,2021,Dune ,/wiki/Dune_(2021_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+576,2021,King Richard ,/wiki/King_Richard_(film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+577,2021,Licorice Pizza,/wiki/Licorice_Pizza,False,7.0,0,0,0,1,0,1,0,1,0,1,0,0,0
+578,2021,Nightmare Alley ,/wiki/Nightmare_Alley_(2021_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+579,2021,The Power of the Dog ,/wiki/The_Power_of_the_Dog_(film),False,7.0,0,1,1,0,0,0,0,0,0,0,0,0,0
+580,2021,West Side Story ,/wiki/West_Side_Story_(2021_film),False,7.0,0,0,0,1,1,0,0,0,0,0,0,0,0
+581,2022,Everything Everywhere All at Once,/wiki/Everything_Everywhere_All_at_Once,True,11.0,1,0,0,1,0,1,1,1,0,1,1,1,1
+582,2022,All Quiet on the Western Front ,/wiki/All_Quiet_on_the_Western_Front_(2022_film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+583,2022,Avatar: The Way of Water,/wiki/Avatar:_The_Way_of_Water,False,4.0,0,1,0,0,0,1,0,0,0,0,0,0,0
+584,2022,The Banshees of Inisherin,/wiki/The_Banshees_of_Inisherin,False,7.0,0,0,0,1,1,1,0,1,0,1,0,1,0
+585,2022,Elvis ,/wiki/Elvis_(2022_film),False,7.0,0,1,0,0,0,0,0,0,0,0,0,0,0
+586,2022,The Fabelmans,/wiki/The_Fabelmans,False,7.0,0,1,1,0,0,1,0,0,0,1,0,1,0
+587,2022,Tár,/wiki/T%C3%A1r,False,7.0,0,1,0,0,0,1,0,1,0,1,0,0,0
+588,2022,Top Gun: Maverick,/wiki/Top_Gun:_Maverick,False,6.0,0,1,0,0,0,1,0,0,0,1,0,0,0
+589,2022,Triangle of Sadness,/wiki/Triangle_of_Sadness,False,7.0,0,0,0,1,0,0,0,0,0,0,0,0,0
+590,2022,Women Talking ,/wiki/Women_Talking_(film),False,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0
